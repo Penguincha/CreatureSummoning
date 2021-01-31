@@ -29,6 +29,7 @@ This mod adds all the sounds that the creatures use. Install
 2. Install Creature Summoning
 
 2a. Just Monsters
+
 2b. Monsters and Basic Races
 
 The component includes wizard spells for Levels 1-9, as well as one high-level ability. These are separate from the vanilla/Spell Revisions Monster Summoning.
