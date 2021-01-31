@@ -53,13 +53,14 @@ IWDEE: Orrick the Grey, Nym, Keiran Nye, Edion Caradoc
 
 OlvynChuru for his ADD_CLASS_SPELL macro (https://forums.beamdog.com/discussion/80718/tool-adding-class-or-kit-specific-spells#latest) as well as his ADD_HLA and GET_2DA_ROW macros from OlyvnSpells (https://forums.beamdog.com/discussion/76732/v2-2-0-olvynspells-151-new-spells-for-bg-ee-bg2-ee-iwd-ee-and-eet/p1)
 
+Camdawg for his Github tutorial (https://www.gibberlings3.net/forums/topic/29541-a-basic-modders-guide-to-git-and-github/)
 
 References
 
 Demicrgvs and Mike1072 for the Spell Revision's Monster Summoning rework, which is the basis of this mod in a way
 Bartimaeus's SR Revised for ideas on monster balance
 Olga Silaeva's Assassainations and Raduziel's Mercenary Kit mods for coding references
-WeiDU Readme by thebigg and other contributors
+WeiDU Readme (https://weidu.org/~thebigg/README-WeiDU.html) by thebigg and other contributors
 
 The Tools used to make this: DLTCEP, NearInfinity, and WieDU
 
