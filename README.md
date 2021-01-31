@@ -43,6 +43,7 @@ All of the creature's stats can be found in the folder Creature Documentation, o
 This adds scrolls to the following shops:
 
 Note: EET will add all of the shops from BGEE, SOD and BG2EE
+
 BGEE: High Hedge, Sorcerous Sundries, Dinguer the Mad (Black Pits)
 
 SOD: Belegram's Wands, Potions and Scrolls
