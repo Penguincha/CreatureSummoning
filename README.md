@@ -62,8 +62,11 @@ OlvynChuru for his ADD_CLASS_SPELL macro (https://forums.beamdog.com/discussion/
 References
 
 Demicrgvs and Mike1072 for the Spell Revision's Monster Summoning rework, which is the basis of this mod in a way
+
 Bartimaeus's SR Revised for ideas on monster balance
+
 Olga Silaeva's Assassainations and Raduziel's Mercenary Kit mods for coding references
+
 WeiDU Readme by thebigg and other contributors
 
 The Tools used to make this: DLTCEP, NearInfinity, and WieDU
