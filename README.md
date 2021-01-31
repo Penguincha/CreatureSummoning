@@ -43,10 +43,12 @@ All of the creature's stats can be found in the folder Creature Documentation, o
 This adds scrolls to the following shops:
 
 Note: EET will add all of the shops from BGEE, SOD and BG2EE
-
 BGEE: High Hedge, Sorcerous Sundries, Dinguer the Mad (Black Pits)
+
 SOD: Belegram's Wands, Potions and Scrolls
+
 BG2EE: Galoomp the Bookkeeper, Lady Yuth (Diedre with Item Revisions), Red Wizard Scroll Merchant, Ust Natha Scroll Merchant, Ribald's Special Stock, Lazarus Librarus, Book Merchant (both Neera's quest and Black Pits 2)
+
 IWDEE: Orrick the Grey, Nym, Keiran Nye, Edion Caradoc
 
 
