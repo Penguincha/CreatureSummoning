@@ -1,0 +1,1041 @@
+//// Scripts ////
+
+
+MAKE_BIFF ~CRScripts~ BEGIN
+	~CreatureSummoning/scripts~ ~.~
+END
+
+
+//// ITEMS ////
+
+
+MAKE_BIFF ~CRItems~ BEGIN
+	~CreatureSummoning/itm/TheRest~ ~.~
+END
+
+COPY ~CreatureSummoning/itm/items_named/dcmwe501.itm~ ~override~
+	SAY NAME1 @7 // Acid Spit
+	SAY NAME2 @7
+COPY ~CreatureSummoning/itm/items_named/dcmwe502.itm~ ~override~
+	SAY NAME1 @8 // Mandibles
+	SAY NAME2 @8
+COPY ~CreatureSummoning/itm/items_named/dcmwe903.itm~ ~override~
+	SAY NAME1 @9 // Hold Person Eyestalk
+	SAY NAME2 @9
+COPY ~CreatureSummoning/itm/items_named/dcmwe905.itm~ ~override~
+	SAY NAME1 @10 // Lightning Bolt Eyestalk
+	SAY NAME2 @10
+COPY ~CreatureSummoning/itm/items_named/dcmwe906.itm~ ~override~
+	SAY NAME1 @11 // Cause Serious Wounds Eyestalk
+	SAY NAME2 @11
+COPY ~CreatureSummoning/itm/items_named/dcmweh01.itm~ ~override~
+	SAY NAME1 @12 // Paralyzing Eyestalk
+	SAY NAME2 @12
+COPY ~CreatureSummoning/itm/items_named/dcmweh02.itm~ ~override~
+	SAY NAME1 @13 // Disintegratation Eyestalk
+	SAY NAME2 @13
+COPY ~CreatureSummoning/itm/items_named/dcmweh03.itm~ ~override~
+	SAY NAME1 @14 // Cause Critical Wounds Eyestalk
+	SAY NAME2 @14
+COPY ~CreatureSummoning/itm/items_named/dcmweh04.itm~ ~override~
+	SAY NAME1 @15 // Disintegratation Eyestalk
+	SAY NAME2 @15
+
+COPY ~CreatureSummoning/itm/items_named/dcmon1.itm~ ~override~
+	SAY NAME1 @159 // Creature Summoning I
+	SAY NAME2 @159
+	SAY DESC @160
+COPY ~CreatureSummoning/itm/items_named/dcmon2.itm~ ~override~
+	SAY NAME1 @161 // Creature Summoning II
+	SAY NAME2 @161
+	SAY DESC @162
+COPY ~CreatureSummoning/itm/items_named/dcmon3.itm~ ~override~
+	SAY NAME1 @163 // Creature Summoning III
+	SAY NAME2 @163
+	SAY DESC @164
+COPY ~CreatureSummoning/itm/items_named/dcmon4.itm~ ~override~
+	SAY NAME1 @165 // Creature Summoning IV
+	SAY NAME2 @165
+	SAY DESC @166
+COPY ~CreatureSummoning/itm/items_named/dcmon5.itm~ ~override~
+	SAY NAME1 @167 // Creature Summoning V
+	SAY NAME2 @167
+	SAY DESC @168
+COPY ~CreatureSummoning/itm/items_named/dcmon6.itm~ ~override~
+	SAY NAME1 @169 // Creature Summoning VI
+	SAY NAME2 @169
+	SAY DESC @170
+COPY ~CreatureSummoning/itm/items_named/dcmon7.itm~ ~override~
+	SAY NAME1 @171 // Creature Summoning VII
+	SAY NAME2 @171
+	SAY DESC @172
+COPY ~CreatureSummoning/itm/items_named/dcmon8.itm~ ~override~
+	SAY NAME1 @173 // Creature Summoning VIII
+	SAY NAME2 @173
+	SAY DESC @174
+COPY ~CreatureSummoning/itm/items_named/dcmon9.itm~ ~override~
+	SAY NAME1 @175 // Creature Summoning IX
+	SAY NAME2 @175
+	SAY DESC @176
+
+
+//// CREATURE FILES ////
+
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs101a.cre~ ~override~
+	SAY NAME1 @16 // Gibberling
+	SAY NAME2 @16
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs101b.cre~ ~override~
+	SAY NAME1 @16
+	SAY NAME2 @16
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs102a.cre~ ~override~
+	SAY NAME1 @17 // Spider
+	SAY NAME2 @17
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs102b.cre~ ~override~
+	SAY NAME1 @17
+	SAY NAME2 @17
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs103a.cre~ ~override~
+	SAY NAME1 @18 // Dog
+	SAY NAME2 @18
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs103b.cre~ ~override~
+	SAY NAME1 @18
+	SAY NAME2 @18
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs104a.cre~ ~override~
+	SAY NAME1 @19 // Goblin
+	SAY NAME2 @19
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs104b.cre~ ~override~
+	SAY NAME1 @19
+	SAY NAME2 @19
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs105a.cre~ ~override~
+	SAY NAME1 @20 // Gnoll
+	SAY NAME2 @20
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs105b.cre~ ~override~
+	SAY NAME1 @20
+	SAY NAME2 @20
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs106a.cre~ ~override~
+	SAY NAME1 @21 // Tasloi
+	SAY NAME2 @21
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs106b.cre~ ~override~
+	SAY NAME1 @21
+	SAY NAME2 @21
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs107a.cre~ ~override~
+	SAY NAME1 @22 // Hobgoblin
+	SAY NAME2 @22
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs107b.cre~ ~override~
+	SAY NAME1 @22
+	SAY NAME2 @22
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs108a.cre~ ~override~
+	SAY NAME1 @23 // Fire Beetle
+	SAY NAME2 @23
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs108b.cre~ ~override~
+	SAY NAME1 @23
+	SAY NAME2 @23
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs109a.cre~ ~override~
+	SAY NAME1 @24 // Orc
+	SAY NAME2 @24
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs109b.cre~ ~override~
+	SAY NAME1 @24
+	SAY NAME2 @24
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs110a.cre~ ~override~
+	SAY NAME1 @25 // Kobold
+	SAY NAME2 @25
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs110b.cre~ ~override~
+	SAY NAME1 @25
+	SAY NAME2 @25
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs111a.cre~ ~override~
+	SAY NAME1 @26 // Xvart
+	SAY NAME2 @26
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs111b.cre~ ~override~
+	SAY NAME1 @26
+	SAY NAME2 @26
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs201a.cre~ ~override~
+	SAY NAME1 @27 // Green Slime
+	SAY NAME2 @27
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs201b.cre~ ~override~
+	SAY NAME1 @27
+	SAY NAME2 @27
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs202a.cre~ ~override~
+	SAY NAME1 @28 // Lizardman
+	SAY NAME2 @28
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs202b.cre~ ~override~
+	SAY NAME1 @28
+	SAY NAME2 @28
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs203a.cre~ ~override~
+	SAY NAME1 @29 // Wererat
+	SAY NAME2 @29
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs203b.cre~ ~override~
+	SAY NAME1 @29
+	SAY NAME2 @29
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs204a.cre~ ~override~
+	SAY NAME1 @30 // Werebadger
+	SAY NAME2 @30
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs204b.cre~ ~override~
+	SAY NAME1 @30
+	SAY NAME2 @30
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs205a.cre~ ~override~
+	SAY NAME1 @31 // Psuedo-Dragon
+	SAY NAME2 @31
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs205b.cre~ ~override~
+	SAY NAME1 @31
+	SAY NAME2 @31
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs206a.cre~ ~override~
+	SAY NAME1 @32 // Elite Goblin
+	SAY NAME2 @32
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs206b.cre~ ~override~
+	SAY NAME1 @32
+	SAY NAME2 @32
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs207a.cre~ ~override~
+	SAY NAME1 @33 // Elite Goblin Archer
+	SAY NAME2 @33
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs207b.cre~ ~override~
+	SAY NAME1 @33
+	SAY NAME2 @33
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs208a.cre~ ~override~
+	SAY NAME1 @34 // Elite Orc Archer
+	SAY NAME2 @34
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs208b.cre~ ~override~
+	SAY NAME1 @34
+	SAY NAME2 @34
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs209a.cre~ ~override~
+	SAY NAME1 @35 // Elite Orc
+	SAY NAME2 @35
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs209b.cre~ ~override~
+	SAY NAME1 @35
+	SAY NAME2 @35
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs210a.cre~ ~override~
+	SAY NAME1 @36 // Kobold Commando
+	SAY NAME2 @36
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs210b.cre~ ~override~
+	SAY NAME1 @36
+	SAY NAME2 @36
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs211a.cre~ ~override~
+	SAY NAME1 @37 // Wolf
+	SAY NAME2 @37
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs211b.cre~ ~override~
+	SAY NAME1 @37
+	SAY NAME2 @37
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs301a.cre~ ~override~
+	SAY NAME1 @38 // Hobgoblin Elite
+	SAY NAME2 @38
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs301b.cre~ ~override~
+	SAY NAME1 @38
+	SAY NAME2 @38
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs302a.cre~ ~override~
+	SAY NAME1 @39 // Bugbear
+	SAY NAME2 @39
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs302b.cre~ ~override~
+	SAY NAME1 @39
+	SAY NAME2 @39
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs303a.cre~ ~override~
+	SAY NAME1 @40 // Worg
+	SAY NAME2 @40
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs303b.cre~ ~override~
+	SAY NAME1 @40
+	SAY NAME2 @40
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs304a.cre~ ~override~
+	SAY NAME1 @41 // Huge Spider
+	SAY NAME2 @41
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs304b.cre~ ~override~
+	SAY NAME1 @41
+	SAY NAME2 @41
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs305a.cre~ ~override~
+	SAY NAME1 @42 // Black Bear
+	SAY NAME2 @42
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs305b.cre~ ~override~
+	SAY NAME1 @42
+	SAY NAME2 @42
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs306a.cre~ ~override~
+	SAY NAME1 @43 // Boar
+	SAY NAME2 @43
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs306b.cre~ ~override~
+	SAY NAME1 @43
+	SAY NAME2 @43
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs307a.cre~ ~override~
+	SAY NAME1 @44 // Boring Beetle
+	SAY NAME2 @44
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs307b.cre~ ~override~
+	SAY NAME1 @44
+	SAY NAME2 @44
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs308a.cre~ ~override~
+	SAY NAME1 @45 // Orc Shaman
+	SAY NAME2 @45
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs308b.cre~ ~override~
+	SAY NAME1 @45
+	SAY NAME2 @45
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs309a.cre~ ~override~
+	SAY NAME1 @46 // Goblin Shaman
+	SAY NAME2 @46
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs309b.cre~ ~override~
+	SAY NAME1 @46
+	SAY NAME2 @46
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs310a.cre~ ~override~
+	SAY NAME1 @47 // Dire Wolf
+	SAY NAME2 @47
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs310b.cre~ ~override~
+	SAY NAME1 @47
+	SAY NAME2 @47
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs311a.cre~ ~override~
+	SAY NAME1 @48 // Hook Horror
+	SAY NAME2 @48
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs311b.cre~ ~override~
+	SAY NAME1 @48
+	SAY NAME2 @48
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs312a.cre~ ~override~
+	SAY NAME1 @49 // Ogrillon
+	SAY NAME2 @49
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs312b.cre~ ~override~
+	SAY NAME1 @49
+	SAY NAME2 @49
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs313a.cre~ ~override~
+	SAY NAME1 @50 // Half-Ogre
+	SAY NAME2 @50
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs313b.cre~ ~override~
+	SAY NAME1 @50
+	SAY NAME2 @50
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs314a.cre~ ~override~
+	SAY NAME1 @51 // Orog
+	SAY NAME2 @51
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs314b.cre~ ~override~
+	SAY NAME1 @51
+	SAY NAME2 @51
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs315a.cre~ ~override~
+	SAY NAME1 @52 // Gray Ooze
+	SAY NAME2 @52
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs315b.cre~ ~override~
+	SAY NAME1 @52
+	SAY NAME2 @52
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs401a.cre~ ~override~
+	SAY NAME1 @53 // Giant Spider
+	SAY NAME2 @53
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs401b.cre~ ~override~
+	SAY NAME1 @53
+	SAY NAME2 @53
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs402a.cre~ ~override~
+	SAY NAME1 @54 // Lizardman Elite
+	SAY NAME2 @54
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs402b.cre~ ~override~
+	SAY NAME1 @54
+	SAY NAME2 @54
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs403a.cre~ ~override~
+	SAY NAME1 @55 // Verbeeg
+	SAY NAME2 @55
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs403b.cre~ ~override~
+	SAY NAME1 @55
+	SAY NAME2 @55
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs404a.cre~ ~override~
+	SAY NAME1 @56 // Goblin Captain
+	SAY NAME2 @56
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs404b.cre~ ~override~
+	SAY NAME1 @56
+	SAY NAME2 @56
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs405a.cre~ ~override~
+	SAY NAME1 @57 // Goblin Worg Rider
+	SAY NAME2 @57
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs405b.cre~ ~override~
+	SAY NAME1 @57
+	SAY NAME2 @57
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs406a.cre~ ~override~
+	SAY NAME1 @58 // Panther
+	SAY NAME2 @58
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs406b.cre~ ~override~
+	SAY NAME1 @58
+	SAY NAME2 @58
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs407a.cre~ ~override~
+	SAY NAME1 @59 // Leopard
+	SAY NAME2 @59
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs407b.cre~ ~override~
+	SAY NAME1 @59
+	SAY NAME2 @59
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs408a.cre~ ~override~
+	SAY NAME1 @135 // Yeti
+	SAY NAME2 @135
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs408b.cre~ ~override~
+	SAY NAME1 @135
+	SAY NAME2 @135
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs409a.cre~ ~override~
+	SAY NAME1 @60 // Kuo-toa
+	SAY NAME2 @60
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs409b.cre~ ~override~
+	SAY NAME1 @60
+	SAY NAME2 @60
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs410a.cre~ ~override~
+	SAY NAME1 @61 // Brown Bear
+	SAY NAME2 @61
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs410b.cre~ ~override~
+	SAY NAME1 @61
+	SAY NAME2 @61
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs411a.cre~ ~override~
+	SAY NAME1 @62 // Flind
+	SAY NAME2 @62
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs411b.cre~ ~override~
+	SAY NAME1 @62
+	SAY NAME2 @62
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs412a.cre~ ~override~
+	SAY NAME1 @63 // Ogre
+	SAY NAME2 @63
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs412b.cre~ ~override~
+	SAY NAME1 @63
+	SAY NAME2 @63
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs413a.cre~ ~override~
+	SAY NAME1 @64 // Orog Elite
+	SAY NAME2 @64
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs413b.cre~ ~override~
+	SAY NAME1 @64
+	SAY NAME2 @64
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs414a.cre~ ~override~
+	SAY NAME1 @65 // Doppelganger
+	SAY NAME2 @65
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs414b.cre~ ~override~
+	SAY NAME1 @65
+	SAY NAME2 @65
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs501a.cre~ ~override~
+	SAY NAME1 @66 // Ogre Berserker
+	SAY NAME2 @66
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs501b.cre~ ~override~
+	SAY NAME1 @66
+	SAY NAME2 @66
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs502a.cre~ ~override~
+	SAY NAME1 @67 // Anhkeg
+	SAY NAME2 @67
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs502b.cre~ ~override~
+	SAY NAME1 @67
+	SAY NAME2 @67
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs503a.cre~ ~override~
+	SAY NAME1 @68 // Baby Wyvern
+	SAY NAME2 @68
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs503b.cre~ ~override~
+	SAY NAME1 @68
+	SAY NAME2 @68
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs504a.cre~ ~override~
+	SAY NAME1 @69 // Bugbear Chieftain
+	SAY NAME2 @69
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs504b.cre~ ~override~
+	SAY NAME1 @69
+	SAY NAME2 @69
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs505a.cre~ ~override~
+	SAY NAME1 @70 // Goblin Chieftain
+	SAY NAME2 @70
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs505b.cre~ ~override~
+	SAY NAME1 @70
+	SAY NAME2 @70
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs506a.cre~ ~override~
+	SAY NAME1 @71 // Giant Spider
+	SAY NAME2 @71
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs506b.cre~ ~override~
+	SAY NAME1 @71
+	SAY NAME2 @71
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs507a.cre~ ~override~
+	SAY NAME1 @72 // Ettercap
+	SAY NAME2 @72
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs507b.cre~ ~override~
+	SAY NAME1 @72
+	SAY NAME2 @72
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs508a.cre~ ~override~
+	SAY NAME1 @73 // Winter Wolf
+	SAY NAME2 @73
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs508b.cre~ ~override~
+	SAY NAME1 @73
+	SAY NAME2 @73
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs509a.cre~ ~override~
+	SAY NAME1 @74 // Myconid
+	SAY NAME2 @74
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs509b.cre~ ~override~
+	SAY NAME1 @74
+	SAY NAME2 @74
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs510a.cre~ ~override~
+	SAY NAME1 @75 // Sahuagin
+	SAY NAME2 @75
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs510b.cre~ ~override~
+	SAY NAME1 @75
+	SAY NAME2 @75
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs511a.cre~ ~override~
+	SAY NAME1 @76 // Cave Bear
+	SAY NAME2 @76
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs511b.cre~ ~override~
+	SAY NAME1 @76
+	SAY NAME2 @76
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs512a.cre~ ~override~
+	SAY NAME1 @77 // Wraith Spider
+	SAY NAME2 @77
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs512b.cre~ ~override~
+	SAY NAME1 @77
+	SAY NAME2 @77
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs601a.cre~ ~override~
+	SAY NAME1 @78 // Wyvern
+	SAY NAME2 @78
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs601b.cre~ ~override~
+	SAY NAME1 @78
+	SAY NAME2 @78
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs602a.cre~ ~override~
+	SAY NAME1 @79 // Harpy
+	SAY NAME2 @79
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs602b.cre~ ~override~
+	SAY NAME1 @79
+	SAY NAME2 @79
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs603a.cre~ ~override~
+	SAY NAME1 @80 // Dark Treant
+	SAY NAME2 @80
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs603b.cre~ ~override~
+	SAY NAME1 @80
+	SAY NAME2 @80
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs604a.cre~ ~override~
+	SAY NAME1 @81 // Ochre Jelly
+	SAY NAME2 @81
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs604b.cre~ ~override~
+	SAY NAME1 @81
+	SAY NAME2 @81
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs605a.cre~ ~override~
+	SAY NAME1 @82 // Yuan-Ti
+	SAY NAME2 @82
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs605b.cre~ ~override~
+	SAY NAME1 @82
+	SAY NAME2 @82
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs606a.cre~ ~override~
+	SAY NAME1 @83 // Werewolf
+	SAY NAME2 @83
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs606b.cre~ ~override~
+	SAY NAME1 @83
+	SAY NAME2 @83
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs607a.cre~ ~override~
+	SAY NAME1 @84 // Blue Myconid
+	SAY NAME2 @84
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs607b.cre~ ~override~
+	SAY NAME1 @84
+	SAY NAME2 @84
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs608a.cre~ ~override~
+	SAY NAME1 @85 // Ogre Mage
+	SAY NAME2 @85
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs608b.cre~ ~override~
+	SAY NAME1 @85
+	SAY NAME2 @85
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs609a.cre~ ~override~
+	SAY NAME1 @86 // Phase Spider
+	SAY NAME2 @86
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs609b.cre~ ~override~
+	SAY NAME1 @86
+	SAY NAME2 @86
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs610a.cre~ ~override~
+	SAY NAME1 @87 // Fire Salamander
+	SAY NAME2 @87
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs610b.cre~ ~override~
+	SAY NAME1 @87
+	SAY NAME2 @87
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs611a.cre~ ~override~
+	SAY NAME1 @88 // Frost Salamander
+	SAY NAME2 @88
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs611b.cre~ ~override~
+	SAY NAME1 @88
+	SAY NAME2 @88
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs701a.cre~ ~override~
+	SAY NAME1 @89 // Minotaur
+	SAY NAME2 @89
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs701b.cre~ ~override~
+	SAY NAME1 @89
+	SAY NAME2 @89
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs702a.cre~ ~override~
+	SAY NAME1 @90 // Orog Chieftain
+	SAY NAME2 @90
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs702b.cre~ ~override~
+	SAY NAME1 @90
+	SAY NAME2 @90
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs703a.cre~ ~override~
+	SAY NAME1 @91 // Mustard Jelly
+	SAY NAME2 @91
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs703b.cre~ ~override~
+	SAY NAME1 @91
+	SAY NAME2 @91
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs704a.cre~ ~override~
+	SAY NAME1 @92 // Elder Kuo-toa
+	SAY NAME2 @92
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs704b.cre~ ~override~
+	SAY NAME1 @92
+	SAY NAME2 @92
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs705a.cre~ ~override~
+	SAY NAME1 @93 // Sahuagin Prince
+	SAY NAME2 @93
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs705b.cre~ ~override~
+	SAY NAME1 @93
+	SAY NAME2 @93
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs706a.cre~ ~override~
+	SAY NAME1 @94 // Sword Spider
+	SAY NAME2 @94
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs706b.cre~ ~override~
+	SAY NAME1 @94
+	SAY NAME2 @94
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs707a.cre~ ~override~
+	SAY NAME1 @95 // Yuan-Ti Elite
+	SAY NAME2 @95
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs707b.cre~ ~override~
+	SAY NAME1 @95
+	SAY NAME2 @95
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs708a.cre~ ~override~
+	SAY NAME1 @96 // Otyugh
+	SAY NAME2 @96
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs708b.cre~ ~override~
+	SAY NAME1 @96
+	SAY NAME2 @96
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs711a.cre~ ~override~
+	SAY NAME1 @97 // Polar Bear
+	SAY NAME2 @97
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs711b.cre~ ~override~
+	SAY NAME1 @97
+	SAY NAME2 @97
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs801a.cre~ ~override~
+	SAY NAME1 @98 // Umber Hulk
+	SAY NAME2 @98
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs801b.cre~ ~override~
+	SAY NAME1 @98
+	SAY NAME2 @98
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs802a.cre~ ~override~
+	SAY NAME1 @99 // Lizard King
+	SAY NAME2 @99
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs802b.cre~ ~override~
+	SAY NAME1 @99
+	SAY NAME2 @99
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs803a.cre~ ~override~
+	SAY NAME1 @100 // Fomorian
+	SAY NAME2 @100
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs803b.cre~ ~override~
+	SAY NAME1 @100
+	SAY NAME2 @100
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs804a.cre~ ~override~
+	SAY NAME1 @101 // Fire Elemental
+	SAY NAME2 @101
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs804b.cre~ ~override~
+	SAY NAME1 @101
+	SAY NAME2 @101
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs805a.cre~ ~override~
+	SAY NAME1 @102 // Water Elemental
+	SAY NAME2 @102
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs805b.cre~ ~override~
+	SAY NAME1 @102
+	SAY NAME2 @102
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs807a.cre~ ~override~
+	SAY NAME1 @103 // Earth Elemental
+	SAY NAME2 @103
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs807b.cre~ ~override~
+	SAY NAME1 @103
+	SAY NAME2 @103
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs808a.cre~ ~override~
+	SAY NAME1 @104 // Air Elemental
+	SAY NAME2 @104
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs808b.cre~ ~override~
+	SAY NAME1 @104
+	SAY NAME2 @104
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs809a.cre~ ~override~
+	SAY NAME1 @105 // Orog Warpriest
+	SAY NAME2 @105
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs809b.cre~ ~override~
+	SAY NAME1 @105
+	SAY NAME2 @105
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs810a.cre~ ~override~
+	SAY NAME1 @106 // Yuan-Ti Halfbreed
+	SAY NAME2 @106
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs810b.cre~ ~override~
+	SAY NAME1 @106
+	SAY NAME2 @106
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs811a.cre~ ~override~
+	SAY NAME1 @107 // Githyanki
+	SAY NAME2 @107
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs811b.cre~ ~override~
+	SAY NAME1 @107
+	SAY NAME2 @107
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs812a.cre~ ~override~
+	SAY NAME1 @108 // Greater Doppelganger
+	SAY NAME2 @108
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs812b.cre~ ~override~
+	SAY NAME1 @108
+	SAY NAME2 @108
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs813a.cre~ ~override~
+	SAY NAME1 @109 // Invisible Stalker
+	SAY NAME2 @109
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs813b.cre~ ~override~
+	SAY NAME1 @109
+	SAY NAME2 @109
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs814a.cre~ ~override~
+	SAY NAME1 @110 // Yuan-Ti Mage
+	SAY NAME2 @110
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs814b.cre~ ~override~
+	SAY NAME1 @110
+	SAY NAME2 @110
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs901.cre~ ~override~
+	SAY NAME1 @111 // Greater Werewolf
+	SAY NAME2 @111
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs902.cre~ ~override~
+	SAY NAME1 @112 // Frost Giant
+	SAY NAME2 @112
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs903.cre~ ~override~
+	SAY NAME1 @113 // Gauth
+	SAY NAME2 @113
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs904.cre~ ~override~
+	SAY NAME1 @114 // Night Hag
+	SAY NAME2 @114
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs905.cre~ ~override~
+	SAY NAME1 @115 // Djinni
+	SAY NAME2 @115
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs906.cre~ ~override~
+	SAY NAME1 @116 // Efreeti
+	SAY NAME2 @116
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs907.cre~ ~override~
+	SAY NAME1 @117 // Rakshasa
+	SAY NAME2 @117
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs908a.cre~ ~override~
+	SAY NAME1 @118 // Drider
+	SAY NAME2 @118
+COPY ~CreatureSummoning/cre/(A)Monsters/dcs908b.cre~ ~override~
+	SAY NAME1 @118 // Drider
+	SAY NAME2 @118
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh01.cre~ ~override~
+	SAY NAME1 @119 // Beholder
+	SAY NAME2 @119
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh02a.cre~ ~override~
+	SAY NAME1 @120 // Black Half-Dragon
+	SAY NAME2 @120
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh02b.cre~ ~override~
+	SAY NAME1 @121 // Blue Half-Dragon
+	SAY NAME2 @121
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh02c.cre~ ~override~
+	SAY NAME1 @122 // Red Half-Dragon
+	SAY NAME2 @122
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh02d.cre~ ~override~
+	SAY NAME1 @123 // Green Half-Dragon
+	SAY NAME2 @123
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh03.cre~ ~override~
+	SAY NAME1 @124 // Greater Feyr
+	SAY NAME2 @124
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh04.cre~ ~override~
+	SAY NAME1 @125 // Chimera
+	SAY NAME2 @125
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh05.cre~ ~override~
+	SAY NAME1 @126 // Cambion
+	SAY NAME2 @126
+	SAY SELECT_COMMON1 @127
+	SAY SELECT_COMMON2 @128
+	SAY SELECT_COMMON3 @129
+	SAY SELECT_COMMON4 @130
+	SAY BATTLE_CRY1 @131
+	SAY DAMAGE @132
+	SAY DYING @133
+COPY ~CreatureSummoning/cre/(A)Monsters/dcsh06.cre~ ~override~
+	SAY NAME1 @134 // Mind Flayer
+	SAY NAME2 @134
+
+
+//// Icons ////
+
+
+MAKE_BIFF ~CRIcons~ BEGIN
+	~CreatureSummoning/icons~ ~.~
+END
+
+
+//// Tables (Monster and Spells) ////
+
+
+MAKE_BIFF ~CRMTable~ BEGIN
+	~CreatureSummoning/MonsterTables/TableA~ ~.~
+END
+
+MAKE_BIFF ~CRSTable~ BEGIN
+	~CreatureSummoning/SpellTables~ ~.~
+END
+
+
+//// Spells ////
+
+
+COPY ~CreatureSummoning/spl/dcabi01.spl~ ~override~
+	SAY NAME1 @136 // Dash
+	SAY UNIDENTIFIED_DESC @137
+COPY ~CreatureSummoning/spl/dcabi02.spl~ ~override~
+	SAY NAME1 @138 // Web
+	SAY UNIDENTIFIED_DESC @139
+COPY ~CreatureSummoning/spl/dcabi03.spl~ ~override~
+	SAY NAME1 @140 // Frost Breath
+	SAY UNIDENTIFIED_DESC @141
+COPY ~CreatureSummoning/spl/dcabi04.spl~ ~override~
+	SAY NAME1 @142 // Confusion Spores
+	SAY UNIDENTIFIED_DESC @143
+	LPF ALTER_EFFECT 
+		INT_VAR match_parameter1 = 1 
+			match_opcode = 139
+			parameter1 = RESOLVE_STR_REF (@189)
+	END
+COPY ~CreatureSummoning/spl/dcabi05.spl~ ~override~
+	SAY NAME1 @144 // Phase Shift
+	SAY UNIDENTIFIED_DESC @145
+COPY ~CreatureSummoning/spl/dcabi06.spl~ ~override~
+COPY ~CreatureSummoning/spl/dcabi07.spl~ ~override~ // Salamander Shields
+COPY ~CreatureSummoning/spl/dcabi08.spl~ ~override~
+	SAY NAME1 @142 // Confusion Spores
+	SAY UNIDENTIFIED_DESC @146
+	LPF ALTER_EFFECT 
+		INT_VAR match_parameter1 = 1 
+			match_opcode = 139
+			 parameter1 = RESOLVE_STR_REF (@189)
+	END
+COPY ~CreatureSummoning/spl/dcabi09.spl~ ~override~
+	SAY NAME1 @147 // Kinetic Blast
+	SAY UNIDENTIFIED_DESC @148
+COPY ~CreatureSummoning/spl/dcabi10.spl~ ~override~
+	SAY NAME1 @149 // Magic Missle
+	SAY UNIDENTIFIED_DESC @150
+COPY ~CreatureSummoning/spl/dcabi11.spl~ ~override~
+	SAY NAME1 @151 // Acid Breath Weapon
+	SAY UNIDENTIFIED_DESC @152
+COPY ~CreatureSummoning/spl/dcabi12.spl~ ~override~
+	SAY NAME1 @153 // Frost Breath Weapon
+	SAY UNIDENTIFIED_DESC @154
+COPY ~CreatureSummoning/spl/dcabi13.spl~ ~override~
+	SAY NAME1 @155 // Fire Breath Weapon
+	SAY UNIDENTIFIED_DESC @156
+COPY ~CreatureSummoning/spl/dcabi14.spl~ ~override~
+	SAY NAME1 @157 // Poison Breath Weapon
+	SAY UNIDENTIFIED_DESC @158
+COPY ~CreatureSummoning/spl/dcabi15.spl~ ~override~
+	SAY NAME1 @179 // Improved Invisibility
+	SAY UNIDENTIFIED_DESC @180
+	LPF ALTER_EFFECT 
+		INT_VAR match_parameter1 = 5 
+			match_opcode = 139
+			 parameter1 =  RESOLVE_STR_REF (@193)
+	END
+COPY ~CreatureSummoning/spl/dcabi16.spl~ ~override~
+	SAY NAME1 @181 // Horror
+	SAY UNIDENTIFIED_DESC @182
+	LPF ALTER_EFFECT 
+		INT_VAR match_parameter1 = 2 
+			match_opcode = 139
+			 parameter1 = RESOLVE_STR_REF (@190)
+	END
+COPY ~CreatureSummoning/spl/dcabi17.spl~ ~override~
+	SAY NAME1 @183 // Emotion, Hopelessness
+	SAY UNIDENTIFIED_DESC @184
+	LPF ALTER_EFFECT 
+		INT_VAR match_parameter1 = 3 
+			match_opcode = 139
+			 parameter1 = RESOLVE_STR_REF (@191)
+	END
+COPY ~CreatureSummoning/spl/dcabi18.spl~ ~override~
+	SAY NAME1 @185 // Emotion, Hatred
+	SAY UNIDENTIFIED_DESC @186
+	LPF ALTER_EFFECT 
+		INT_VAR match_parameter1 = 4 
+			match_opcode = 139
+			 parameter1 = RESOLVE_STR_REF (@192)
+	END
+COPY ~CreatureSummoning/spl/dcabi19.spl~ ~override~
+	SAY NAME1 @187 // Psionic Blast
+	SAY UNIDENTIFIED_DESC @188
+	LPF ALTER_EFFECT 
+		INT_VAR match_parameter1 = 6 
+			match_opcode = 139
+			 parameter1 = RESOLVE_STR_REF (@194)
+	END
+
+COPY ~CreatureSummoning/spl/dcmon01.spl~ ~override~
+	SAY NAME1 @159 // Creature Summoning I
+	SAY UNIDENTIFIED_DESC @160
+	SAY DESC @160
+COPY ~CreatureSummoning/spl/dcmon02.spl~ ~override~
+	SAY NAME1 @161 // Creature Summoning II
+	SAY UNIDENTIFIED_DESC @162
+	SAY DESC @162
+COPY ~CreatureSummoning/spl/dcmon03.spl~ ~override~
+	SAY NAME1 @163 // Creature Summoning III
+	SAY UNIDENTIFIED_DESC @164
+	SAY DESC @164
+COPY ~CreatureSummoning/spl/dcmon03a.spl~ ~override~
+	SAY NAME1 @328
+COPY ~CreatureSummoning/spl/dcmon03b.spl~ ~override~
+	SAY NAME1 @326
+COPY ~CreatureSummoning/spl/dcmon04.spl~ ~override~
+	SAY NAME1 @165 // Creature Summoning IV
+	SAY UNIDENTIFIED_DESC @166
+	SAY DESC @166
+COPY ~CreatureSummoning/spl/dcmon04a.spl~ ~override~
+	SAY NAME1 @329
+COPY ~CreatureSummoning/spl/dcmon04b.spl~ ~override~
+	SAY NAME1 @327
+COPY ~CreatureSummoning/spl/dcmon05.spl~ ~override~
+	SAY NAME1 @167 // Creature Summoning V
+	SAY UNIDENTIFIED_DESC @168
+	SAY DESC @168
+COPY ~CreatureSummoning/spl/dcmon05a.spl~ ~override~
+	SAY NAME1 @330
+COPY ~CreatureSummoning/spl/dcmon05b.spl~ ~override~
+	SAY NAME1 @328
+COPY ~CreatureSummoning/spl/dcmon06.spl~ ~override~
+	SAY NAME1 @169 // Creature Summoning VI
+	SAY UNIDENTIFIED_DESC @170
+	SAY DESC @170
+COPY ~CreatureSummoning/spl/dcmon06a.spl~ ~override~
+	SAY NAME1 @331
+COPY ~CreatureSummoning/spl/dcmon06b.spl~ ~override~
+	SAY NAME1 @329
+COPY ~CreatureSummoning/spl/dcmon07.spl~ ~override~
+	SAY NAME1 @171 // Creature Summoning VII
+	SAY UNIDENTIFIED_DESC @172
+	SAY DESC @172
+COPY ~CreatureSummoning/spl/dcmon07a.spl~ ~override~
+	SAY NAME1 @332
+COPY ~CreatureSummoning/spl/dcmon07b.spl~ ~override~
+	SAY NAME1 @330
+COPY ~CreatureSummoning/spl/dcmon08.spl~ ~override~
+	SAY NAME1 @173 // Creature Summoning VIII
+	SAY UNIDENTIFIED_DESC @174
+	SAY DESC @174
+COPY ~CreatureSummoning/spl/dcmon08a.spl~ ~override~
+	SAY NAME1 @333
+COPY ~CreatureSummoning/spl/dcmon08b.spl~ ~override~
+	SAY NAME1 @331
+COPY ~CreatureSummoning/spl/dcmon09.spl~ ~override~
+	SAY NAME1 @175 // Creature Summoning IX
+	SAY UNIDENTIFIED_DESC @176
+	SAY DESC @176
+COPY ~CreatureSummoning/spl/dcmon09a.spl~ ~override~
+	SAY NAME1 @334
+COPY ~CreatureSummoning/spl/dcmon09b.spl~ ~override~
+	SAY NAME1 @332
+COPY ~CreatureSummoning/spl/dcmon0h.spl~ ~override~
+	SAY NAME1 @177 // Creature Summoning X
+	SAY UNIDENTIFIED_DESC @178
+	SAY DESC @178
+COPY ~CreatureSummoning/spl/dcmon0ha.spl~ ~override~
+	SAY NAME1 @335
+COPY ~CreatureSummoning/spl/dcmon0hb.spl~ ~override~
+	SAY NAME1 @333
+INCLUDE ~%MOD_FOLDER%/ClassSpellTool.TPA~
+
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON01~ scroll=~DCMON1~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON02~ scroll=~DCMON2~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON03~ scroll=~DCMON3~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON04~ scroll=~DCMON4~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON05~ scroll=~DCMON5~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON06~ scroll=~DCMON6~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON07~ scroll=~DCMON7~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON08~ scroll=~DCMON8~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+LAF ADD_CLASS_SPELL STR_VAR resref=~DCMON09~ scroll=~DCMON9~ class_include=~{'BARD_ALL', 'MAGE_ALL', 'SORCERER'}~ END
+
+DEFINE_PATCH_FUNCTION ~GET_2DA_ROW~ // taken from MESPELLS https://forums.beamdog.com/discussion/76732/v2-2-0-olvynspells-151-new-spells-for-bg-ee-bg2-ee-iwd-ee-and-eet/p1
+	INT_VAR
+		numcolumns=0
+		match_column=0
+		found_it=0
+	STR_VAR
+		match=~DEFA~
+	RET
+		numcols
+		matched
+BEGIN
+		matched=~-1~
+		COUNT_2DA_ROWS numcolumns numrows
+		FOR (i = 0; i < numrows; ++i) BEGIN
+			READ_2DA_ENTRY i match_column numcolumns string_to_match
+			PATCH_IF (~%string_to_match%~ STRING_EQUAL_CASE ~%match%~) BEGIN
+				matched = i
+				found_it = 1
+				i = numrows
+			END
+		END
+		numcols = numcolumns
+		PATCH_IF (found_it = 0) BEGIN
+			PATCH_WARN ~GET_2DA_ROW: Could not find a row that contains %match% in column %match_column%.~
+		END
+END
+
+
+DEFINE_PATCH_FUNCTION ADD_HLA // modified from MESPELLS https://forums.beamdog.com/discussion/76732/v2-2-0-olvynspells-151-new-spells-for-bg-ee-bg2-ee-iwd-ee-and-eet/p1
+	STR_VAR
+		ability=~GA_DCMON0H~
+		icon=~*~
+		strref=~*~
+		min_lev=~*~
+		max_lev=~99~
+		num_allowed=~1~
+		prerequisite=~*~
+		excluded_by=~*~
+		alignment_restrict=~*~
+BEGIN
+	LPF GET_2DA_ROW INT_VAR found_it=1 numcolumns=7 match_column=1 STR_VAR match=~*~ RET numcolumns=numcols row=matched END
+	COUNT_2DA_ROWS numcolumns numrows
+	PATCH_IF row < 0 BEGIN
+		row = numrows
+	END
+	PATCH_IF row < numrows BEGIN
+//		PATCH_PRINT ~%row% %numrows%~
+		SET_2DA_ENTRY row 1 numcolumns ~%ability%~
+		SET_2DA_ENTRY row 2 numcolumns ~%icon%~
+		SET_2DA_ENTRY row 3 numcolumns ~%strref%~
+		SET_2DA_ENTRY row 4 numcolumns ~%min_lev%~
+		SET_2DA_ENTRY row 5 numcolumns ~%max_lev%~
+		SET_2DA_ENTRY row 6 numcolumns ~%num_allowed%~
+		SET_2DA_ENTRY row 7 numcolumns ~%prerequisite%~
+		SET_2DA_ENTRY row 8 numcolumns ~%excluded_by%~
+		COUNT_2DA_COLS totalcolumns
+		PATCH_IF totalcolumns > 9 BEGIN
+			SET_2DA_ENTRY row 9 numcolumns ~%alignment_restrict%~
+		END
+	END
+	ELSE BEGIN
+		//numrows = numrows - 1
+		READ_2DA_ENTRY (numrows - 1) 0 numcolumns previousnumber
+		previousnumber = previousnumber + 1
+		COUNT_2DA_COLS totalcolumns
+		PATCH_IF totalcolumns > 9 BEGIN
+			INSERT_2DA_ROW numrows numcolumns ~%previousnumber%         %ability%           %icon%          %strref%         %min_lev%         %max_lev%          %num_allowed%            %prerequisite%            %excluded_by%             %alignment_restrict%~
+		END
+		ELSE BEGIN
+			INSERT_2DA_ROW numrows numcolumns ~%previousnumber%         %ability%           %icon%          %strref%         %min_lev%         %max_lev%          %num_allowed%            %prerequisite%            %excluded_by%~
+		END
+	END
+
+END
+
+COPY_EXISTING ~luma0.2da~ ~override~
+	LPF ADD_HLA STR_VAR min_lev=~1~ END
+	IF_EXISTS
+	UNLESS ~GA_DCMON0H~
+
+COPY_EXISTING ~lucm0.2da~ ~override~ ~lufm0.2da~ ~override~ ~lumt0.2da~ ~override~
+	LPF ADD_HLA STR_VAR min_lev=~32~ END
+	IF_EXISTS
+	UNLESS ~GA_DCMON0H~
+
+COPY_EXISTING ~lufmc.2da~ ~override~ ~lufmt.2da~ ~override~
+	LPF ADD_HLA STR_VAR min_lev=~32~ END
+	IF_EXISTS
+	IF ~GA_SPWI921~
+	UNLESS ~GA_DCMON0H~
+
+COPY_EXISTING ~kitlist.2da~ ~override~
+	COUNT_2DA_COLS numcolumns
+	COUNT_2DA_ROWS numcolumns numrows
+	FOR (i = 1; i < numrows; ++i) BEGIN
+		READ_2DA_ENTRY i 8 numcolumns theclass
+		PATCH_IF (~%theclass%~ STRING_EQUAL_CASE ~1~) BEGIN
+			READ_2DA_ENTRY i 1 numcolumns theclassname
+			INNER_ACTION BEGIN
+				COPY_EXISTING ~luabbr.2da~ ~override~
+					LPF GET_2DA_ROW INT_VAR found_it=1 STR_VAR match= EVAL ~%theclassname%~ RET numcolumns2=numcols row=matched END
+					PATCH_IF row > ~-1~ BEGIN
+						READ_2DA_ENTRY row 1 numcolumns2 thehlatable
+						INNER_ACTION BEGIN
+							COPY_EXISTING ~lu%thehlatable%.2da~ ~override~
+								LPF ADD_HLA STR_VAR min_lev=~1~ END
+								IF_EXISTS
+								UNLESS ~GA_DCMON0H~
+						END
+					END
+					BUT_ONLY_IF_IT_CHANGES
+			END
+		END
+	END
+	BUT_ONLY_IF_IT_CHANGES
+
+
+//// Effects ////
+
+
+MAKE_BIFF ~CREATURES_EFF~ BEGIN
+	~CreatureSummoning/eff~ ~.~
+END

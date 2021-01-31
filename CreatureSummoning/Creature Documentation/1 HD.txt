@@ -1,0 +1,94 @@
+Dog (1 HD)
+
+STR 9, DEX 10, CON 11, INT 6, WIS 8, CHA 6; AL Neutral
+HP 8, AC 9, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Bite)
+
+
+Fire Beetle (1 HD)
+
+STR 8, DEX 11, CON 9, INT 6, WIS 8, CHA 4; AL Neutral
+HP 6, AC 7, THAC0 19, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d3 Piercing Damage, 1 Fire Damage (Bite)
+
+Special Qualities:
+Slashing, Piercing, and Missle Resistance 10%
+
+
+Gibberling (1 HD)
+
+STR 9, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Neutral
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Short Sword)
+
+
+Gnoll (1 HD)
+
+STR 11, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d10 Piercing or Slashing Damage (Halberd)
+
+
+Goblin (1 HD)
+
+STR 10, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 7, AC 9, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Slashing Damage (Battle Axe)
+
+
+Hobgoblin (1 HD)
+
+STR 10, DEX 10, CON 10, INT 8, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d8 Slashing Damage (Long Sword)
+
+
+Kobold (1 HD)
+
+STR 10, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Short Sword)
+
+
+Orc (1 HD)
+
+STR 11, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Slashing Damage (Battle Axe)
+
+
+Spider (1 HD)
+
+STR 9, DEX 11, CON 9, INT 6, WIS 8, CHA 4; AL Neutral
+HP 6, AC 8, THAC0 19, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d4 Piercing Damage (Bite)
+
+
+Tasloi (1 HD)
+
+STR 10, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Spear)
+
+
+Xvart (1 HD)
+
+STR 10, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Short Sword)
+
+
+Basic Race (1 HD)
+
+STR 10*, DEX 10*, CON 10*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, X Damage (Special**)
+
+**Humans are equiped with a Quarterstaff
+Elves are equiped with a Short Sword
+Dwarves are equiped with a War Hammer
+Halflings are equiped with a Dagger
+Gnomes are equiped with a Club
+Half-Orcs are equiped with a Club
+
+*Racial Attribute Bonuses and Penalties will be applied

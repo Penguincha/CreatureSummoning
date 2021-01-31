@@ -1,0 +1,171 @@
+Djinni (9 HD)
+
+STR 18/00, DEX 19, CON 17, INT 19, WIS 16, CHA 18; AL Chaotic Good
+HP 90, AC 1, THAC0 5, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, 1d8+9 Slashing Damage (Scimitar +3)
+
+Memorized Spells:
+1º Magic Missle (x3), Shield
+2º Invisibility, Mirror Image
+3º Haste, Lightning Bolt
+4º Minor Globe of Invulnerability
+5º Spell Immunity
+
+
+Drider (9 HD)
+
+STR 20, DEX 19, CON 21, INT 14, WIS 17, CHA 8; AL Chaotic Evil
+HP 104, AC 4, THAC0 4, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, 1d6+13 Slashing Damage (Battle Axe +3)
+
+Special Qualites:
+Immune to web effects
+
+
+Efreeti (9 HD)
+
+STR 18/00, DEX 17, CON 18, INT 19, WIS 16, CHA 18; AL Chaotic Evil
+HP 96, AC 3, THAC0 5, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, 1d8+9 Slashing +1d6 Fire Damage (Scimitar +3)
+
+Special Qualities:
+Fire Resistance 100%
+
+Memorized Spells:
+1º Magic Missle (x3), Shield
+2º Horror, Vocalize
+3º Fireball, Flame Arrow
+4º Fire Shield (Red) 
+5º Lower Resistance
+
+
+Frost Giant (9 HD)
+
+STR 23, DEX 13, CON 22, INT 9, WIS 12, CHA 7; AL Chaotic Evil
+HP 110, AC 4, THAC0 4, Saving Throw 9/9/8/9/9
+5/2 Attacks Per Round, 3d6+14 Slashing Damage (Battle Axe +3)
+
+Special Qualites:
+Cold Resistance: 100%
+
+
+Gauth (9 HD)
+
+STR 12, DEX 14, CON 14, INT 17, WIS 15, CHA 10; AL Neutral Evil
+HP 80, AC 3, THAC0 4, Saving Throw 9/9/8/9/9
+1 Attack Per Round, Special (Eyestalks +3)
+
+Special Qualites:
+Lighting Bolt Eyestalk: 9d6 Lightning Damage (save vs. spell neg.)
+Cause Serious Wounds Eyestalk:  17 Magic Damage (no save, Magic Resistance is ignored)
+Hold Person Eyestalk (save vs. spell at -2 neg.)
+Immune to grease, web, and entangle effects
+
+
+Greater Werewolf (9 HD)
+
+STR 21, DEX 19, CON 23, INT 13, WIS 16, CHA 10; AL Chaotic Evil
+HP 92, AC 0, THAC0 5, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, 1d12+12 Slashing Damage (Fist +3)
+
+Special Qualites:
+Immune to non-magical weapons
+Fire, Cold, Electrical, and Acid Resistance 50%
+Magic Resistance 50%
+Rengeneration: 2hp/sec
+
+
+Night Hag (9 HD)
+
+STR 18/00, DEX 16, CON 18, INT 19, WIS 17, CHA 16; AL Chaotic Evil
+HP 90, AC 3, THAC0 4, Saving Throw 9/9/8/9/9
+2 Attacks Per Round, 1d6+9 Slashing Damage (Claws +3)
+
+Combat Abilities:
+Magic Missle (at will)
+Ray of Enfeeblement (x2)
+Sleep (x2)
+
+Special Qualites:
+Demon Fever: creatures struck by the hag's attacks must save vs. death at -2 or suffer from demon fever, causing the victim to lose 2 Constitution after a 10 hour incubation period
+Cold and Fire Resistance: 40%
+Magic Resistance: 30%
+
+
+Rakshasa (9 HD)
+
+STR 18/80, DEX 19, CON 16, INT 19, WIS 16, CHA 18; AL Chaotic Good
+HP 80, AC 1, THAC0 5, Saving Throw 9/9/8/9/9
+2 Attacks Per Round, 1d8+7 Slashing Damage (Scimitar +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to spells lower than Level 6
+
+Memorized Spells:
+1º Magic Missle (x3)
+2º Melf's Acid Arrow, Horror
+3º Flame Arrow, Spell Thrust
+4º Secret Word
+5º Breach
+
+
+Drow Priestess, Basic Race Creature (9 HD)
+
+STR 18, DEX 18, CON 16, INT 16, WIS 18, CHA 18; AL Lawful Evil
+HP 70, AC 2, THAC0 9, Saving Throw 7/11/10/13/12
+2 Attacks Per Round, 1d6+5 Crushing Damage (Flail +3)
+
+Special Qualities:
+Magic Resistance 65%
+
+Memorized Spells:
+1º Armor of Faith (x2), Bless, Command, Doom, Remove Fear
+2º Aid, Chant, Hold Person, Draw Upon Holy Might (x2)
+3º Animate Dead (x2), Cure Medium Wounds, Dispel Magic
+4º Death Ward, Free Action, Poison
+5º Flame Strike, True Seeing
+6º Aerial Servant
+
+
+Basic Race Fighter (9 HD)
+
+STR 23*, DEX 18*, CON 18*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 103, AC -1, THAC0 4, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, X+14 Damage (Special +3)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -2 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (9 HD)
+
+STR 18/80*, DEX 18*, CON 16*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 89, AC 2, THAC0 4, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, X+8 Damage (Bolts or Arrows +3 x60)
+or 3 Attacks Per Round, X+7 Damage ((Special +3)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied

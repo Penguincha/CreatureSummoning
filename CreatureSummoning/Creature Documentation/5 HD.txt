@@ -1,0 +1,164 @@
+Ankheg** (5 HD)
+
+STR 15, DEX 11, CON 14, INT 8, WIS 11, CHA 4; AL Chaotic Evil
+HP 48, AC 3, THAC0 13, Saving Throw 11/12/10/13/13
+1 Attacks Per Round, 3d4 Acid Damage (Acid Spit +1)
+or 3/2 Attacks Per Round, 1d6+1 Crushing +1d4 Acid Damage (Mandibles +1)
+
+Special Qualities:
+Fire Resistance 20%
+
+
+Baby Wyvern (5 HD)
+
+STR 14, DEX 15, CON 14, INT 8, WIS 10, CHA 5; AL Neutral
+HP 50, AC 3, THAC0 12, Saving Throw 11/12/10/13/13
+2 Attacks Per Round, 1d6+1 Piercing Damage (Claws and Bite +1), 1d6+1 Piercing Damage (Stinger +1)
+
+Combat Abilites:
+Poison: the wyvern's stinger injects a venom which deals 4 hp/round for 1 turn (save vs. poison neg.)
+Poison: the wyvern's stinger injects a venom which deals 5 hp/round for 1 turn (save vs. poison neg.)
+Immune to grease, web, and entangle effects
+
+
+Bugbear Chieftain (5 HD)
+
+STR 18/90, DEX 13, CON 17, INT 10, WIS 13, CHA 10; AL Chaotic Evil
+HP 58, AC 4, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 2d4+5 Crushing Damage (Morning Star +1)
+
+Combat Abilities:
+Berserker Rage (x1)
+
+
+Carrion Crawler (5 HD)
+
+STR 11, DEX 15, CON 12, INT 8, WIS 12, CHA 4; AL Neutral
+HP 44, AC 3, THAC0 12, Saving Throw 11/12/10/13/13
+2 Attacks Per Round, 1d6+1 Crushing Damage (Tentacles +1)
+
+Combat Abilities:
+Poison: the crawler's tentacles injects a venom which paralyzes the enemy for 5 rounds (save vs. poison neg.)
+
+
+Cave Bear (5 HD)
+
+STR 18/00, DEX 14, CON 17, INT 7, WIS 12, CHA 10; AL Neutral
+HP 60, AC 4, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 2d4+8 Slashing Damage (Claws +1)
+
+
+Ettercap (5 HD)
+
+STR 15, DEX 15, CON 14, INT 6, WIS 11, CHA 7; AL Chaotic Evil
+HP 49, AC 3, THAC0 12, Saving Throw 11/12/10/13/13
+2 Attacks Per Round, 1d6+1 Slashing Damage (Claws +1), 1d6+1 Piercing Damage (Bite +1)
+
+Combat Abilities:
+Poison: the ettercap's bite injects a venom which deals 4 hp/round for 1 turn (save vs. poison at neg.)
+Web (once every 1 turn): The ettercap throws a web on a target, ensnaring the victim for 5 rounds (save vs. death neg.)
+
+Special Qualities:
+Immune to web effects
+
+
+Giant Snake (5 HD)
+
+STR 16, DEX 17, CON 15, INT 7, WIS 12, CHA 6; AL Neutral
+HP 54, AC 2, THAC0 11, Saving Throw 11/12/10/13/13
+1 Attack Per Round, 1d6+2 Piercing Damage (Bite +1)
+
+Combat Abilities:
+Poison: the snake's bite injects a venom which deals 1 hp/sec for 1 turn (save vs. poison at -2 neg.)
+
+
+Goblin Chieftain (5 HD)
+
+STR 18/90, DEX 13, CON 16, INT 10, WIS 13, CHA 10; AL Chaotic Evil
+HP 54, AC 3, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 1d6+5 Crushing Damage (Spear +1)
+
+
+Myconid (5 HD)
+
+STR 16, DEX 15, CON 14, INT 8, WIS 12, CHA 7; AL Neutral
+HP 51, AC 4, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 1d6+2 Crushing Damage (Slam +1)
+
+Combat Abilities:
+Confusion Spores (once every 1 turn): the myconid throws a cluster of spores on the target, confusing the victim for rounds (save vs. spell neg.)
+
+
+Ogre Berserker (5 HD)
+
+STR 18/90, DEX 13, CON 17, INT 7, WIS 7, CHA 5; AL Chaotic Evil
+HP 58, AC 4, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 2d4+5 Crushing Damage (Morning Star +1)
+
+Combat Abilities:
+Berserker Rage (x1)
+
+
+Winter Wolf (5 HD)
+
+STR 16, DEX 18, CON 16, INT 8, WIS 12, CHA 7; AL Neutral
+HP 57, AC 3, THAC0 11, Saving Throw 11/12/10/13/13
+1 Attack Per Round, 1d6+2 Piercing Damage (Bite +1)
+
+Combat Abilities:
+Frost Breath (once every 1 turn): the winter wolf breathes a blast of cold at an enemy, dealing 4d6 damage (save vs. breath halves)
+
+Special Qualities:
+Cold Resistance 100%
+
+
+Wraith Spider (5 HD)
+
+STR 16, DEX 17, CON 15, INT 10, WIS 13, CHA 6; AL Chaotic Evil
+HP 51, AC 4, THAC0 12, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 1d6+2 Piercing Damage (Bite +1)
+
+Combat Abilities:
+Poison: spiders’ bites inject a venom which inflicts 3hp/round for 1 turn (save vs. poison neg.)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to web effects
+Magic Resistance 15%
+
+
+Basic Race Fighter (5 HD)
+
+STR 18/00*, DEX 15*, CON 17*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 60, AC 3, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, X+8 Damage (Random Light or Martial Weapon +1**)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (5 HD)
+
+STR 16*, DEX 16*, CON 14*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 50, AC 5, THAC0 12, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, X+2Damage (Bolts or Arrows +1 x40)
+or 3/2 Attacks Per Round, X+1 Damage (Random Light Weapon +1**)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied
+**A helpful way to move the Anhkeg whilst it is burrowed is to click Select All(0)

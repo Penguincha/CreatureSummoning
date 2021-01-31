@@ -1,0 +1,61 @@
+BACKUP ~CreatureSummoning/backup~
+AUTHOR ~Penguincha~
+VERSION ~0.1~
+
+AUTO_TRA ~CreatureSummoning/lang/%s~
+LANGUAGE ~English~ ~english~ ~CreatureSummoning/lang/English/setup.tra~
+
+/////	Add Animations	/////
+
+BEGIN @1	DESIGNATED 500		GROUP @1 // Animations and Sounds
+REQUIRE_PREDICATE (GAME_IS ~bgee bg2ee eet iwdee~) @2 // Incompatible Game
+
+MAKE_BIFF ~CRExtraAnimations~  BEGIN
+	~CreatureSummoning/anim/bams~ ~.~
+END
+
+MAKE_BIFF ~CREIni~  BEGIN
+	~CreatureSummoning/anim/ini~ ~.~
+END
+
+// THE BMP AND ANIMATE.IDS //
+
+COPY ~CreatureSummoning/anim/mdh2_gr.BMP~	~override~
+COPY ~CreatureSummoning/anim/ANIMATE.IDS~	~override~
+
+
+/////	Add Sounds	/////
+
+BEGIN @3
+DESIGNATED 501
+GROUP @1 // Animations and Sounds
+REQUIRE_PREDICATE (GAME_IS ~bgee bg2ee eet iwdee~) @2 // Incompatible Game
+
+MAKE_BIFF ~CRExtraSounds~  BEGIN
+	~CreatureSummoning/sounds~ ~.~
+END
+
+
+/////	 CREATURE SUMMONING	/////
+
+BEGIN @5 // Just Monsters
+DESIGNATED 502	
+SUBCOMPONENT @4
+REQUIRE_PREDICATE (GAME_IS ~bgee bg2ee eet iwdee~) @2 // Incompatible Game
+
+INCLUDE ~CreatureSummoning/Components/(A)JustMonsters.tpa~
+
+BEGIN @6 // Monsters and Basic Races
+DESIGNATED 503	
+SUBCOMPONENT @4
+REQUIRE_PREDICATE (GAME_IS ~bgee bg2ee eet iwdee~) @2 // Incompatible Game
+
+INCLUDE ~CreatureSummoning/Components/(B)BasicRaces.tpa~
+
+
+/////	Stores	/////
+
+BEGIN @201	DESIGNATED 504
+REQUIRE_PREDICATE (GAME_IS ~bgee bg2ee eet iwdee~) @2 // Incompatible Game
+
+INCLUDE ~CreatureSummoning/Components/StoreAlterations.tpa~

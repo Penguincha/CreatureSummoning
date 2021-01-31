@@ -1,0 +1,116 @@
+Beholder (10 HD)
+
+STR 14, DEX 14, CON 14, INT 20, WIS 16, CHA 18; AL Neutral Evil
+HP 92, AC 2, THAC0 1, Saving Throw 7/7/6/8/8
+1 Attack Per Round, Special (Eyestalks +4)
+
+Special Qualites:
+Disintegration Eyestalk: deals 15d6 Magic Damage (save vs. spell at -2, 5d6 on a failed save)
+Cause Critical Wounds Eyestalk:  27 Magic Damage (no save, Magic Resistance is ignored)
+Death Ray Eyestalk: causes the victim to die (save vs. death at +2)
+Paralyzing Eyestalk (save vs. spell at -2 neg.)
+Immune to grease, web, and entangle effects
+
+
+Cambion (10 HD)
+
+STR 21, DEX 19, CON 21, INT 19, WIS 17, CHA 19; AL Lawful Evil
+HP 101, AC -1, THAC0 2, Saving Throw 7/7/6/8/8
+4 Attacks Per Round, 1d6+13 Slashing Damage (Scimitars +4)
+
+Special Qualites:
+Immune to non-magical weapons
+Electrical Resistance 75%, Acid, Cold and Fire Resistance 25%
+Magic Resistance 30%
+
+
+
+Chimera (10 HD)
+
+STR 21, DEX 13, CON 22, INT 7, WIS 12, CHA 7; AL Chaotic Evil
+HP 113, AC 2, THAC0 2, Saving Throw 7/7/6/8/8
+4 Attacks Per Round, 2d6+13 Slashing or Piercing Damage (Claws, Horn, or Bite +4)
+
+Combat Abilities:
+Breath Weapon (once every 1 turn): the chimera's dragon head exhales a breath of fire, damaging enemies in a 15' cone for 10d6 Fire Damage (save vs. breath at -2 halves)
+
+
+Greater Feyr (10 HD)
+
+STR 18/80, DEX 16, CON 18, INT 19, WIS 17, CHA 10; AL Chaotic Evil
+HP 101, AC 0, THAC0 1, Saving Throw 7/7/6/8/8
+3 Attacks Per Round, 2d6+10 Crushing Damage (Tentacle +4)
+
+Combat Abilities:
+Improved Invisibility (once every 5 rounds)
+Horror (once every round)
+Emotion, Hopelessness (x1): hostile creatures with 15' radius lay down defenseless for 5 rounds (save vs. spell at -4 neg.)
+Emotion, Hatred (x1): hostile creatures with 15' radius go berserk for 1 turn (save vs. spell at -4 neg.)
+
+Special Qualities:
+Immune to grease, web, and entangle effects
+Magic Resistance 40%
+
+
+Half-Dragon (Blue, Black, Red, or Green) (10 HD)
+
+STR 23, DEX 19, CON 22, INT 19, WIS 17, CHA 19; AL Chaotic Evil
+HP 115, AC -1, THAC0 1, Saving Throw 7/7/6/8/8
+3 Attacks Per Round, 1d10+15 Slashing Damage (Two-Handed Sword +4)
+
+Combat Abilities:
+Breath Weapon (once every 1 turn): the half-dragon exhales a breath of energy, damaging enemies in a 15' cone for 10d6 Elemental Damage (save vs. breath at -2 halves)
+
+Special Qualites:
+Immune to half-dragon's element (Cold for Blue, Acid for Black, Fire for Red, and Poison for Green)
+Immune to sleep and paralysis
+Magic Resistance 50%
+
+
+Mind Flayer (10 HD)
+
+STR 14, DEX 13, CON 16, INT 23, WIS 18, CHA 18; AL Lawful Evil
+HP 80, AC 2, THAC0 6, Saving Throw 7/7/6/8/8
+1 Attack Per Round, 1d4+4 Crushing Damage (Brain Devour +4)
+
+Combat Abilities:
+Ability Score Drain: -5 to target's intelligence for 5 rounds
+Psionic Blast (once every 1 turn): stuns opponents within 15’ radius for 1 turn (save vs. spell negates)
+
+Special Qualites:
+Magic Resistance 90%
+
+
+Basic Race Fighter (10 HD)
+
+STR 24*, DEX 19*, CON 19*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 123, AC -2, THAC0 1, Saving Throw 7/7/6/8/8
+7/2 Attacks Per Round, X+16 Damage (Special +4)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -2 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+Basic Race Archer (10 HD)
+
+STR 19*, DEX 19*, CON 17*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 97, AC 4, THAC0 1, Saving Throw 7/7/6/8/8
+3 Attacks Per Round, X+10 Damage (Bolts or Arrows +4 x60)
+or 2 Attacks Per Round, X+11 Damage (Special +3)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied

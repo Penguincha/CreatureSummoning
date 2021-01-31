@@ -1,0 +1,159 @@
+Black Bear (3 HD)
+
+STR 16, DEX 13, CON 14, INT 7, WIS 12, CHA 5; AL Neutral
+HP 25, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6+1 Slashing Damage (Claws & Bite)
+
+
+Boar (3 HD)
+
+STR 15, DEX 13, CON 16, INT 7, WIS 12, CHA 4; AL Neutral
+HP 31, AC 6, THAC0 17, Saving Throw 12/14/13/15/15
+3/2 Attack Per Round, 1d6 Crushing Damage (Gore)
+
+
+Boring Beetle (3 HD)
+
+STR 15, DEX 13, CON 14, INT 7, WIS 12, CHA 4; AL Neutral
+HP 24, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6 Slashing Damage (Pincers)
+
+Special Qualities:
+Slashing, Piercing, and Missle Resistance 10%
+
+
+Bugbear (3 HD)
+
+STR 16, DEX 14, CON 12, INT 7, WIS 6, CHA 4; AL Chaotic Evil
+HP 25, AC 5, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6+1 Crushing Damage (Club)
+
+
+Huge Spider (3 HD)
+
+STR 12, DEX 13, CON 13, INT 7, WIS 11, CHA 4; AL Neutral
+HP 23, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+1 Attack Per Round, 1d6 Piercing Damage (Leg and Bite)
+
+Combat Abilities:
+Poison: spiders’ bites inject a venom which inflicts 2hp/round for 1 turn (save vs. poison neg.)
+
+Special Qualities:
+Immune to web effects
+
+
+Goblin Shaman (3 HD)
+
+STR 13, DEX 12, CON 14, INT 8, WIS 13, CHA 7; AL Chaotic Evil
+HP 19, AC 6, THAC0 18, Saving Throw 10/14/13/16/15
+1 Attack Per Round, 1d6 Crushing Damage (Quarterstaff)
+
+Memorized Spells:
+1º Bless, Cure Light Wounds, Remove Fear
+2º Chant
+
+
+Gray Ooze (3 HD)
+
+STR 15, DEX 11, CON -, INT 3, WIS 3, CHA 3; AL Neutral
+HP 24, AC 5, THAC0 16, Saving Throw 12/14/13/15/15
+1 Attack Per Round, 1d6 Crushing +2d4 Acid Damage (Melee Pseudopod)
+
+Special Qualities:
+Immune to backstab
+Immune to charm, confusion, disease, hold, poison, sleep, and stun effects
+Fire Resistance 100%, Cold Resistance 100%, Magic Resistance 100%
+
+
+Half Ogre (3 HD)
+
+STR 16, DEX 13, CON 14, INT 7, WIS 6, CHA 4; AL Chaotic Evil
+HP 25, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d8+1 Slashing Damage (Long Sword)
+
+
+Hobgoblin Elite (3 HD)
+
+STR 11, DEX 14, CON 11, INT 9, WIS 6, CHA 5; AL Chaotic Evil
+HP 23, AC 6, THAC0 17, Saving Throw 12/14/13/15/15
+2 Attack Per Round, 1d6 Missile Damage (Arrows of Biting x3); 1d6 Missile Damage (Arrows x25)
+or 1 Attack Per Round, 1d8 Slashing Damage (Long Sword)
+
+Combat Abilities:
+Arrow of Biting: creatures struck by the arrow take 3 hp/round for 1 turn (save vs. death neg.)
+
+
+Hook Horror (3 HD)
+
+STR 16, DEX 13, CON 14, INT 6, WIS 10, CHA 4; AL Neutral
+HP 24, AC 5, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6+1 Slashing Damage (Claw Arms)
+
+
+Ogrillion (3 HD)
+
+STR 18/95, DEX 10, CON 14, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 25, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+1 Attacks Per Round, 1d8+5 Crushing Damage (Fists)
+
+
+Orc Shaman (3 HD)
+
+STR 14, DEX 10, CON 14, INT 8, WIS 13, CHA 7; AL Chaotic Evil
+HP 19, AC 8, THAC0 18, Saving Throw 10/14/13/16/15
+1 Attack Per Round, 1d6 Crushing Damage (Quarterstaff)
+
+Memorized Spells:
+1º Bless, Cure Light Wounds, Remove Fear
+2º Chant
+
+
+Orog (3 HD)
+
+STR 15, DEX 13, CON 14, INT 6, WIS 7, CHA 4; AL Chaotic Evil
+HP 23, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d10 Slashing Damage (Two-Handed Sword)
+
+
+Worg (3 HD)
+
+STR 15, DEX 15, CON 15, INT 7, WIS 6, CHA 4; AL Chaotic Evil
+HP 26, AC 5, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6 Piercing Damage (Bite)
+
+
+Basic Race Fighter (3 HD)
+
+STR 16*, DEX 12*, CON 14*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 24, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, X+1 Damage (Special)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC(+1 to Missle AC), and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (3 HD)
+
+STR 13*, DEX 16*, CON 13*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 20, AC 6, THAC0 17, Saving Throw 12/14/13/15/15
+1 Attack Per Round, X Missile Damage (Bolts or Arrows x40)
+or 1 Attack Per Round, X Damage (Special)
+
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied

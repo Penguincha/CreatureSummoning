@@ -1,0 +1,179 @@
+Blue Myconid (6 HD)
+
+STR 18, DEX 16, CON 17, INT 10, WIS 13, CHA 7; AL Neutral
+HP 68, AC 4, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 2d6+4 Crushing Damage (Slam +2)
+
+Special Qualities:
+Confusing Spores (once every 1 turn): the myconid throws a cluster of spores on the target, confusing the target for 1 turn (save vs. spell at -2 neg.)
+
+
+Dark Treant (6 HD)
+
+STR 18/00, DEX 10, CON -, INT 8, WIS 13, CHA 7; AL Chaotic Evil
+HP 69, AC 4, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 2d6+8 Crushing Damage (Slam +2)
+
+Special Qualities:
+Immune to hold, poison, sleep, & stun effects
+Fire Resistance -25%
+
+
+Fire Salamander (6 HD)
+
+STR 16, DEX 17, CON 16, INT 10, WIS 14, CHA 7; AL Neutral Evil
+HP 63, AC 3, THAC0 9, Saving Throw 11/11/10/12/12
+1 Attacks Per Round, 1d6+3 Piercing +1d6 Fire Damage (Bite +2)
+
+Combat Abilities:
+Heated Body: opponents take 1d6 Fire Damage when the salamander is hit with an attack or spell within 5' radius
+
+Special Qualities:
+Fire Resistance 100%
+
+
+Frost Salamander (6 HD)
+
+STR 16, DEX 17, CON 16, INT 10, WIS 14, CHA 7; AL Neutral Evil
+HP 63, AC 3, THAC0 9, Saving Throw 11/11/10/12/12
+1 Attacks Per Round, 1d6+3 Piercing +1d6 Cold Damage (Bite +2)
+
+Combat Abilities:
+Chilled Body: opponents take 1d6 Cold Damage when the salamander is hit with an attack or spell within 5' radius
+
+Special Qualities:
+Cold Resistance 100%
+
+
+Harpy (6 HD)
+
+STR 17, DEX 18, CON 16, INT 14, WIS 13, CHA 11; AL Chaotic Evil
+HP 64, AC 3, THAC0 9, Saving Throw 11/11/10/12/12
+3 Attacks Per Round, 1d12+3 Slashing Damage (Claws +2)
+
+Special Qualities:
+Immune to grease, web, and entangle effects
+
+
+Ochre Jelly (6 HD)
+
+STR 16, DEX 9, CON -, INT 3, WIS 3, CHA 3; AL Neutral
+HP 68, AC 3, THAC0 9, Saving Throw 11/10/11/12/11
+2 Attacks Per Round, 2d4+3 Crushing +2d6 Acid Damage (Melee Pseudopod +2)
+
+Special Qualities:
+Immune to backstab
+Immune to charm, confusion, disease, hold, poison, sleep, and stun effects
+Electrical Resistance 100%
+Slashing Resistance 100%
+
+
+Ogre Mage (6 HD)
+
+STR 18/00, DEX 14, CON 17, INT 15, WIS 11, CHA 7; AL Chaotic Evil
+HP 59, AC 5, THAC0 9, Saving Throw 11/11/10/12/12
+3/2 Attacks Per Round, 1d10+8 Slashing Damage (Katana +2)
+
+Special Qualities:
+Invisibility (at will)
+
+Memorized Spells:
+1º Magic Missile (x2), Shield
+2º Horror, Mirror Image
+3º Dire Charm, Slow
+
+
+Phase Spider (6 HD)
+
+STR 15, DEX 16, CON 17, INT 10, WIS 14, CHA 7; AL Neutral
+HP 68, AC 5, THAC0 10, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 1d8+2 Piercing Damage (Bite +2)
+
+Combat Abilities:
+Phase Shift (once every 3 rounds): teleports the phase spider to any area within line of sight
+
+Special Qualities:
+Poison: spiders’ bites inject a venom which inflicts 1hp/sec for 1 turn (save vs. poison at -2 neg.)
+
+
+Werewolf (6 HD)
+
+STR 18/00, DEX 18, CON 17, INT 10, WIS 13, CHA 7; AL Chaotic Evil
+HP 64, AC 2, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 1d6+8 Slashing Damage (Claws +2)
+
+Special Qualities:
+Immune to non-magical weapons
+
+
+Wyvern (6 HD)
+
+STR 16, DEX 14, CON 16, INT 8, WIS 11, CHA 5; AL Neutral
+HP 68, AC 3, THAC0 10, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 2d6+3 Piercing or Slashing Damage (Claws and Bite +2), 2d6+3 Piercing Damage (Stinger +2)
+
+Special Qualities:
+Poison: the wyvern's stinger injects a venom which deals 1 hp/sec for 1 turn (save vs. poison at -1 neg.)
+Poison: the wyvern's stinger injects a venom which deals 2 hp/sec for 1 turn (save vs. poison at -2 neg.)
+Immune to grease, web, and entangle effects
+
+
+Yuan-Ti (6 HD)
+
+STR 18/00, DEX 17, CON 15, INT 13, WIS 12, CHA 13; AL Neutral Evil
+HP 69, AC 3, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 2d4+8 Slashing Damage (Bastard Sword +2)
+
+Special Qualities:
+Fire, Cold, Electrical, and Acid Resistance 30%
+Magic Resistance 20%
+
+
+Barbarian, Basic Race Creature (6 HD)
+
+STR 17, DEX 15, CON 18, INT 10, WIS 13, CHA 9; AL Chaotic Neutral
+HP 70, AC 4, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 1d6+6 Slashing Damage (Battle Axe +2)
+
+Combat Abilities:
+Barbarian Rage (x1)
+
+Special Qualites:
+Immune to backstab
+
+
+Basic Race Fighter (6 HD)
+
+STR 18/00*, DEX 16*, CON 18*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 70, AC 2, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, X+9 Damage (Special +2)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (6 HD)
+
+STR 16*, DEX 17*, CON 15*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 63, AC 4, THAC0 10, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, X+6 Damage (Bolts or Arrows +2 x60)
+or 2 Attacks Per Round, X+3 Damage (Special +2)
+
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied

@@ -1,0 +1,192 @@
+Fire Elemental (8 HD)
+
+STR 18/50, DEX 16, CON 17, INT 8, WIS 12, CHA 10; AL Neutral
+HP 85, AC 2, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 2d4+6 Crushing, +2d4 Fire Damage (Fist +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to hold, poison, sleep, & stun effects
+Fire Resistance 100%
+
+
+Water Elemental (8 HD)
+
+STR 20, DEX 13, CON 18, INT 8, WIS 12, CHA 10; AL Neutral
+HP 91, AC 3, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 2d4+10 Crushing, (Fist +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to hold, poison, sleep, & stun effects
+Fire Resistance 75%
+
+Earth Elemental (8 HD)
+
+STR 22, DEX 10, CON 19, INT 8, WIS 12, CHA 10; AL Neutral
+HP 95, AC 4, THAC0 6, Saving Throw 10/10/9/10/10
+5/2 Attacks Per Round, 2d6+13 Crushing (Fist +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to hold, poison, sleep, & stun effects
+
+
+Air Elemental (8 HD)
+
+STR 20, DEX 20, CON 17, INT 8, WIS 12, CHA 10; AL Neutral
+HP 87, AC 0, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 2d4+6 Crushing, (Fist +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to hold, poison, sleep, & stun effects
+
+
+Fomorion (8 HD)
+
+STR 21, DEX 11, CON 20, INT 8, WIS 12, CHA 4; AL Chaotic Evil
+HP 99, AC 4, THAC0 6, Saving Throw 10/10/9/10/10
+5/2 Attacks Per Round, 2d6+11 Crushing Damage (Fist +3)
+
+
+Githyanki (8 HD)
+
+STR 18/50, DEX 15, CON 16, INT 16, WIS 12, CHA 14; AL Lawful Evil
+HP 77, AC 2, THAC0 6, Saving Throw 10/10/9/10/10
+2 Attacks Per Round, 2d4+6 Slashing Damage (Bastard Sword +3)
+
+Combat Abilities:
+Kinetic Blast (once every 1 turn): hurls a blast of psionic energy which deals 8d8 damage (save vs. spell at -4 halves)
+
+
+Greater Doppelganger (8 HD)
+
+STR 17, DEX 15, CON 15, INT 8, WIS 12, CHA 10; AL Neutral Evil
+HP 65, AC 4, THAC0 7, Saving Throw 10/10/9/10/10
+4 Attacks Per Round, 1d6+4 Slashing Damage (Claw +3)
+
+Memorized Spells:
+2º Mirror Image
+3º Haste
+
+
+Invisible Stalker (8 HD)
+
+STR 18/80, DEX 16, CON 17, INT 8, WIS 12, CHA 10; AL Neutral
+HP 80, AC -2, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 2d6+7 Crushing Damage (Fist +3)
+
+Special Qualities:
+Natural Invisibility: constantly invisible as if affected by an Improved Invisibility spell
+Immune to hold, poison, sleep, & stun effects
+
+
+Lizard King (8 HD)
+
+STR 18/00, DEX 13, CON 17, INT 11, WIS 16, CHA 15; AL Neutral
+HP 85, AC 2, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 1d6+10 Piercing Damage (Spear +3)
+
+Memorized Spells:
+1º Armor of Faith, Remove Fear
+2º Draw Upon Holy Might
+
+
+Orog Warpriest (8 HD)
+
+STR 18/00, DEX 11, CON 17, INT 9, WIS 17, CHA 12; AL Chaotic Evil
+HP 79, AC 3, THAC0 8, Saving Throw 10/10/9/10/10
+2 Attacks Per Round, 1d6+9 Crushing Damage (Flail +3)
+
+Memorized Spells:
+1º Armor of Faith, Bless, Command, Doom, Remove Fear
+2º Aid, Chant, Hold Person, Silence, 15'Radius
+3º Animate Dead, Cure Medium Wounds, Unholy Blight
+4º Free Action
+
+
+Umber Hulk (8 HD)
+
+STR 20, DEX 13, CON 18, INT 8, WIS 9, CHA 8; AL Neutral
+HP 89, AC 2, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 1d8+11 Piercing or Slashing Damage (Claws and Bite +3)
+
+Combat Abilities:
+Immune to confusion effects
+Confusing Gaze (once every 5 rounds): the umber hulk throws a gaze at a creature, confusing the target for 1 turn (save vs. death at -3 neg.)
+
+
+Yuan-Ti Halfbreed (8 HD)
+
+STR 18/00, DEX 19, CON 18, INT 16, WIS 12, CHA 16; AL Neutral Evil
+HP 93, AC 0, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 1d6+9 Crushing Damage (Scimitar +3)
+
+Special Qualities:
+Magic Resistance 50%
+
+
+Yuan-Ti Mage (8 HD)
+
+STR 10, DEX 12, CON 12, INT 18, WIS 10, CHA 10; AL Neutral Evil
+HP 45, AC 6, THAC0 14, Saving Throw 13/9/11/13/10
+3 Attacks Per Round, 1d3+3 Missile Damage (Darts +3 x40)
+or 1 Attack Per Round, 1d4+3 Piercing Damage (Dagger +3)
+
+Memorized Spells:
+1º Charm Person, Chromatic Orb, Magic Missle (x2), Shield
+2º Blur,  Horror, Invisibility, Mirror Image
+3º Dire Charm, Flame Arrow, Haste
+4º Fire Shield (Red), Spirit Armor, Stoneskin
+5º Animate Dead, Chaos
+
+Special Qualities:
+Fire, Cold, Electrical, and Acid Resistance 30%
+Magic Resistance 20%
+
+
+Drow Warrior, Basic Races Creature (8 HD)
+
+STR 18/80, DEX 19, CON 17, INT 15, WIS 12, CHA 13; AL Neutral Evil
+HP 88, AC 1, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 1d6+8 Slashing Damage (Scimitar +3)
+
+Special Qualities:
+Magic Resistance 65%
+
+
+Basic Race Fighter (8 HD)
+
+STR 20*, DEX 17*, CON 18*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 94, AC 0, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, X+11 Damage ((Special +3)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (8 HD)
+
+STR 18*, DEX 18*, CON 16*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 80, AC 4, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, X+5 Damage (Bolts or Arrows +3 x60)
+or 3 Attacks Per Round, X+5 Damage ((Special +3)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied

@@ -1,0 +1,107 @@
+Elite Goblin (2 HD)
+
+STR 12, DEX 12, CON 11, INT 6, WIS 7, CHA 4; AL Chaotic Evil
+HP 16, AC 7, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6 Slashing Damage (Battle Axe)
+
+
+Elite Goblin, Ranged (2 HD)
+
+STR 11, DEX 12, CON 11, INT 6, WIS 7, CHA 4; AL Chaotic Evil
+HP 13, AC 8, THAC0 19, Saving Throw 13/14/14/16/16
+2 Attack Per Round, 1d6 Missile Damage (Arrows x20)
+or 1 Attack Per Round, 1d4 Piercing Damage (Dagger)
+
+
+Elite Orc (2 HD)
+
+STR 16, DEX 10, CON 11, INT 5, WIS 7, CHA 4; AL Chaotic Evil
+HP 16, AC 8, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6+1 Slashing Damage (Battle Axe)
+
+
+Elite Orc, Ranged (2 HD)
+
+STR 16, DEX 10, CON 11, INT 5, WIS 7, CHA 4; AL Chaotic Evil
+HP 13, AC 9, THAC0 19, Saving Throw 13/14/14/16/16
+2 Attack Per Round, 1d6 Missile Damage (Arrows x20)
+or 1 Attack Per Round, 1d4+1 Piercing Damage (Dagger)
+
+
+Green Slime (2 HD)
+
+STR 14, DEX 9, CON -, INT 3, WIS 3, CHA 3; AL Neutral
+HP 16, AC 8, THAC0 17, Saving Throw 13/15/14/16/16
+1 Attack Per Round, 1d4 Crushing +1d4 Acid Damage (Ranged Psuedopod)
+
+Special Qualities:
+Immune to backstab
+Immune to charm, fear, confusion, disease, hold, poison, sleep, and stun effects
+Electrical Resistance 100%
+Missile Resistance 100%
+
+
+Kobold Commando (2 HD)
+
+STR 11, DEX 12, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 11, AC 8, THAC0 19, Saving Throw 13/14/14/16/16
+2 Attack Per Round, 1d6 Missile Damage, 1d2 Fire Damage (Arrows of Fire +1 x2); 1d6 Missile Damage (Arrows x20)
+or 1 Attack Per Round, 1d6 Piercing Damage (Short Sword)
+
+
+Lizardman (2 HD)
+
+STR 16, DEX 10, CON 11, INT 6, WIS 6, CHA 4; AL Neutral
+HP 17, AC 8, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6+1 Slashing Damage (Battle Axe)
+
+
+Psuedo-Dragon (2 HD)
+
+STR 8, DEX 14, CON 10, INT 12, WIS 10, CHA 15; AL Neutral Good
+HP 12, AC 7, THAC0 18, Saving Throw 13/14/14/16/16
+2 Attacks Per Round, 1d3 Slashing Damage (Claws), 1d2 Piercing Damage (Stinger)
+
+Combat Abilities:
+Poison: the psuedo-dragon's stinger injects a venom which deals 2 hp/round for 1 turn (save vs. poison neg.)
+Immune to grease, web, and entangle effects
+
+
+Wererat (2 HD)
+
+STR 12, DEX 11, CON 11, INT 9, WIS 6, CHA 4; AL Chaotic Evil
+HP 15, AC 8, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 2d4 Crushing Damage (Morning Star)
+
+
+Werebadger (2 HD)
+
+STR 12, DEX 10, CON 12, INT 7, WIS 6, CHA 4; AL Chaotic Evil
+HP 15, AC 8, THAC0 19, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6 Crushing Damage (Club)
+
+Combat Abilities:
+Barbarian Rage (x1)
+
+
+Wolf (2 HD)
+
+STR 12, DEX 15, CON 12, INT 6, WIS 12, CHA 7; AL Neutral
+HP 16, AC 7, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6 Piercing Damage (Bite)
+
+
+Basic Race (2 HD)
+
+STR 12*, DEX 10*, CON 11*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 16, AC 9, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, X Damage (Special)
+
+Humans are equiped with a Quarterstaff
+Elves are equiped with a Short Sword
+Dwarves are equiped with a War Hammer
+Halflings are equiped with a Dagger
+Gnomes are equiped with a Club
+Half-Orcs are equiped with a Club
+
+*Racial Attribute Bonuses and Penalties will be applied

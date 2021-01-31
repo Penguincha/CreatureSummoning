@@ -1,0 +1,142 @@
+Elder Kou-toa (7 HD)
+
+STR 18/50, DEX 16, CON 17, INT 10, WIS 16, CHA 12; AL Chaotic Evil
+HP 74, AC 2, THAC0 7, Saving Throw 11/10/9/11/11
+3 Attacks Per Round, 1d6+6 Piercing Damage (Spear +3)
+
+Special Qualities:
+Electrical Resistance 100%, Acid Resistance 50% Fire Resistance -25%
+
+
+Greater Yuan-Ti (7 HD)
+
+STR 18/95, DEX 17, CON 18, INT 14, WIS 13, CHA 14; AL Neutral Evil
+HP 77, AC 3, THAC0 7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, 1d10+6 Slashing Damage (Two-Handed Sword +3)
+
+Special Qualities:
+Fire, Cold, Electrical, and Acid Resistance 30%
+Magic Resistance 20%
+
+
+Minotaur (7 HD)
+
+STR 19, DEX 13, CON 19, INT 8, WIS 12, CHA 8; AL Neutral
+HP 82, AC 3, THAC0 7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, 1d6+10 Slashing Damage (Battle Axe +3)
+
+
+Mustard Jelly (7 HD)
+
+STR 17, DEX 13, CON -, INT 3, WIS 3, CHA 3; AL Neutral
+HP 75, AC 3, THAC0 7, Saving Throw 11/10/9/11/11
+2 Attacks Per Round, 1d6+4 Crushing +2d4 Acid Damage (Ranged Pseudopod +3)
+
+Combat Abilites:
+Slow: the jelly's strikes slow the target for 3 rounds (save vs. spell at -3 neg.)
+
+Special Qualities
+Immune to non-magical weapons
+Immune to backstab
+Immune to charm, confusion, disease, hold, poison, sleep, and stun effects
+Electrical Resistance 100%, Magic Resistance 100%
+Missle Resistance 100%
+
+
+Orog Chieftain (7 HD)
+
+STR 19, DEX 14, CON 18, INT 10, WIS 14, CHA 10; AL Chaotic Evil
+HP 80, AC 3, THAC0 7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, 1d10+10 Slashing Damage (Two-Handed Sword +3)
+
+
+Otyugh (7 HD)
+
+STR 16, DEX 10, CON 14, INT 5, WIS 12, CHA 5; AL Neutral
+HP 74, AC 3, THAC0 8, Saving Throw 11/10/9/11/11
+3 Attacks Per Round, 1d6+4 Crushing Damage (Tentacles +3), 1d6+4 Piercing Damage (Bite +3)
+
+Combat Abilities:
+Disease: the otyugh's bite injects a disease in the victim, slowing movement and causing 1 point of damage per round for 1 turn (save vs. death at -4 neg.)
+
+Special Qualities:
+Immune to disease effects
+Slashing, Crushing, & Piercing Resistance 5%; Missile Resistance 100%
+
+
+Polar Bear (7 HD)
+
+STR 19, DEX 13, CON 18, INT 7, WIS 12, CHA 7; AL Neutral
+HP 79, AC 4, THAC0 7, Saving Throw 11/10/9/11/11
+2 Attacks Per Round, 2d6+10 Slashing Damage (Claws +3)
+
+
+Sahuagin Prince (7 HD)
+
+STR 18/50, DEX 14, CON 17, INT 12, WIS 15, CHA 16; AL Lawful Evil
+HP 74, AC 3, THAC0 8/7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, 1d6+5 Missle Damage (Crossbow +3 x40)
+or 5/2 Attacks Per Round, 1d6+6 Piercing Damage (Spear +3)
+
+Special Qualities:
+Fire Resistance -25%
+
+
+Sword Spider (7 HD)
+
+STR 15, DEX 16, CON 14, INT 7, WIS 12, CHA 4; AL Neutral
+HP 70, AC 3, THAC0 10, Saving Throw 11/10/9/11/11
+4 Attacks Per Round, 2d6+3 Piercing Damage (Legs +3), 2d6+3 Piercing Damage (Bite +3)
+
+Special Qualities:
+Poison: spiders’ bites inject a venom which inflicts 1hp/sec for 1 turn (save vs. poison at -3 neg.)
+Permanent Haste
+
+
+Barbarian Shaman, Basic Race Creature (7 HD)
+
+STR 18, DEX 13, CON 16, INT 10, WIS 16, CHA 10; AL Chaotic Random
+HP 63, AC 5, THAC0 11, Saving Throw 7/11/10/13/12
+1 Attacks Per Round, X+5 Damage (Random Cleric Melee Weapon +3)
+
+Memorized Spells
+1º Armor of Faith, Bless, Cure Light Wounds (x2), Doom
+2º Chant, Charm Person or Mammal, Resist Elements, Slow Poison
+3º Cure Medium Wounds, Spiritual Clarity, Strength of One
+4º Defensive Harmony, Spirit Fire
+
+
+Basic Race Fighter (7 HD)
+
+STR 19*, DEX 16*, CON 18*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 81, AC 1, THAC0 7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, X+10 Damage (Special +3)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (7 HD)
+
+STR 16*, DEX 18*, CON 15*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 72, AC 3, THAC0 8, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, X+5 Damage (Bolts or Arrows +3 x60)
+or 5/2 Attacks Per Round, X+4 Damage (Special +3)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied

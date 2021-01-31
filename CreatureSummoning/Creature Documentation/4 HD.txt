@@ -1,0 +1,145 @@
+Brown Bear (4 HD)
+
+STR 16, DEX 15, CON 16, INT 8, WIS 11, CHA 5; AL Neutral
+HP 37, AC 6, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Slashing Damage (Claws and Bite +1)
+
+
+Doppelganger (4 HD)
+
+STR 14, DEX 14, CON 11, INT 14, WIS 11, CHA 7; AL Neutral Evil
+HP 29, AC 6, THAC0 15, Saving Throw 12/13/10/14/14
+2 Attacks Per Round, 1d6+1 Slashing Damage (Claws +1)
+
+
+Elite Orog (4 HD)
+
+STR 17, DEX 13, CON 15, INT 8, WIS 8, CHA 5; AL Chaotic Evil
+HP 36, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d10+2 Slashing Damage (Two-Handed Sword +1)
+
+
+Flind (4 HD)
+
+STR 16, DEX 15, CON 15, INT 8, WIS 11, CHA 7; AL Chaotic Evil
+HP 36, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d8+2 Slashing Damage (Long Sword +1)
+
+
+Goblin Captain (4 HD)
+
+STR 17, DEX 16, CON 15, INT 8, WIS 8, CHA 7; AL Chaotic Evil
+HP 34, AC 3, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Slashing Damage (Battle Axe +1)
+
+
+Goblin Worg Rider (4 HD)
+
+STR 16, DEX 15, CON 16, INT 7, WIS 7, CHA 7; AL Chaotic Evil
+HP 36, AC 4, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+1 Piercing Damage (Spear +1)
+
+
+Giant Spider (4 HD)
+
+STR 15, DEX 16, CON 13, INT 7, WIS 10, CHA 4; AL Neutral
+HP 32, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+1 Attack Per Round, 1d8+1 Slashing Damage (Leg and Bite +1)
+
+Combat Abilities:
+Poison: spiders’ bites inject a venom which inflicts 3hp/round for 1 turn (save vs. poison neg.)
+
+Special Qualities:
+Immune to web effects
+
+
+Leopard (4 HD)
+
+STR 16, DEX 17, CON 14, INT 7, WIS 12, CHA 7; AL Neutral
+HP 32, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Slashing Damage (Claw and Bite +1)
+
+Special Qualities
+Dash (x1): doubles movement speed for two rounds
+
+
+Kou-toa (4 HD)
+
+STR 16, DEX 16, CON 14, INT 9, WIS 11, CHA 6; AL Neutral Evil
+HP 34, AC 4, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Piercing Damage (Spear +1)
+
+Special Qualities:
+Electrical Resistance 100%, Acid Resistance 50% Fire Resistance -25%
+
+
+Ogre (4 HD)
+
+STR 17, DEX 13, CON 15, INT 6, WIS 6, CHA 7; AL Chaotic Evil
+HP 36, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 2d4+2 Crushing Damage (Morning Star +1)
+
+
+Panther (4 HD)
+
+STR 17, DEX 17, CON 15, INT 7, WIS 12, CHA 7; AL Neutral
+HP 34, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Slashing Damage (Claw and Bite +1)
+
+
+Tough Lizard Man (4 HD)
+
+STR 18, DEX 13, CON 15, INT 6, WIS 8, CHA 4; AL Neutral
+HP 36, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+3 Slashing Damage (Spear +1)
+
+
+Verbeeg (4 HD)
+
+STR 18, DEX 12, CON 16, INT 9, WIS 13, CHA 5; AL Neutral Evil
+HP 38, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+3 Slashing Damage (Spear +1)
+
+
+Yeti (4 HD)
+
+STR 18/00, DEX 12, CON 16, INT 6, WIS 10, CHA 4; AL Neutral
+HP 36, AC 6, THAC0 14, Saving Throw 12/13/10/14/14
+1 Attack Per Round, 1d6+7 Crushing Damage (Fists +1)
+
+
+Basic Race Fighter (4 HD)
+
+STR 16*, DEX 14*, CON 15*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 36, AC 4, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, X+2 Damage (Special +1)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC(+1 to Missle AC), and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (4 HD)
+
+STR 13*, DEX 16*, CON 14*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 29, AC 6, THAC0 15, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, X+1 Missile Damage (Bolts or Arrows +1 x40)
+or 3/2 Attacks Per Round, X Damage (Special)
+
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied
