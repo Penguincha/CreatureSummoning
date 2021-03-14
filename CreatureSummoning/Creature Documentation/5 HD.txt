@@ -72,7 +72,7 @@ Combat Abilities:
 Poison: the snake's bite injects a venom which deals 1 hp/sec for 1 turn (save vs. poison at -2 neg.)
 
 
-Goblin Chieftain (5 HD)
+Goblin Pack Leader (5 HD)
 
 STR 18/90, DEX 13, CON 16, INT 10, WIS 13, CHA 10; AL Chaotic Evil
 HP 54, AC 3, THAC0 11, Saving Throw 11/12/10/13/13

@@ -1,10 +1,10 @@
 *INTRODUCTION*
 
-I always had a heavy love for summoner characters, especially horde summons like Vaal Summon Skeletons from Path of Exile.
+I always had a heavy love for summoner characters, especially horde summons like Vaal Summon Skeleton builds from Path of Exile.
 
 I wanted to make a summoning mod with horde based mechanics, as well as randomness, so I figured why not just make a reworked Monster Summoning Mod?
 
-This mod uses a base-work reference with Spell-Revision's Monster Summoning, and adds an option in the third level spell and above to summon more of monsters ala BG1 Monster Summoning that are 2-HD lower, as well as making them circumvent the summon limit.
+This mod uses a base-work reference with Spell-Revision's Monster Summoning, and adds an option in the third level spell and above to summon more of monsters ala BG1 Vanilla Monster Summoning that are 2-HD lower, as well as making them circumvent the summon limit.
 
 NOTE: IT IS HEAVILY RECOMMENDED THAT YOU INSTALL EEEX (https://github.com/Bubb13/EEex/archive/master.zip), AS THE GAME WILL CRASH IF YOU TRY TO MAKE A MULTI-CLASSED MAGE.
 
@@ -29,7 +29,7 @@ This mod adds all the sounds that the creatures use. Install
 2a. Just Monsters
 2b. Monsters and Basic Races
 
-The component includes wizard spells for Levels 1-9, as well as one high-level ability. These are separate from the vanilla/Spell Revisions Monster Summoning.
+The component includes wizard spells for Levels 1-9. These are separate from the vanilla/Spell Revisions Monster Summoning.
 
 The basic races include all the selectable races (excluding half-elf) in the summoning table, as well as some other humanoids in the higher levels.
 
@@ -51,7 +51,7 @@ IWDEE: Orrick the Grey, Nym, Keiran Nye, Edion Caradoc
 
 *CREDITS AND ACKNOWLEDGEMENTS*
 
-OlvynChuru for his ADD_CLASS_SPELL macro (https://forums.beamdog.com/discussion/80718/tool-adding-class-or-kit-specific-spells#latest) as well as his ADD_HLA and GET_2DA_ROW macros from OlyvnSpells (https://forums.beamdog.com/discussion/76732/v2-2-0-olvynspells-151-new-spells-for-bg-ee-bg2-ee-iwd-ee-and-eet/p1)
+OlvynChuru for his ADD_CLASS_SPELL macro (https://forums.beamdog.com/discussion/80718/tool-adding-class-or-kit-specific-spells#latest)
 
 Camdawg for his Github tutorial (https://www.gibberlings3.net/forums/topic/29541-a-basic-modders-guide-to-git-and-github/)
 
@@ -59,7 +59,6 @@ References
 
 Demicrgvs and Mike1072 for the Spell Revision's Monster Summoning rework, which is the basis of this mod in a way
 Bartimaeus's SR Revised for ideas on monster balance
-Olga Silaeva's Assassainations and Raduziel's Mercenary Kit mods for coding references
 WeiDU Readme (https://weidu.org/~thebigg/README-WeiDU.html) by thebigg and other contributors
 
 The Tools used to make this: DLTCEP, NearInfinity, and WieDU

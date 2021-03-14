@@ -44,7 +44,7 @@
 @43 = ~Boar~
 @44 = ~Boring Beetle~
 @45 = ~Orc Shaman~
-@46 = ~Goblin Shaman~
+@46 = ~Goblin Witch Doctor~
 @47 = ~Dire Wolf~
 @48 = ~Hook Horror~
 @49 = ~Ogrillon~
@@ -68,7 +68,7 @@
 @67 = ~Ankheg~
 @68 = ~Baby Wyvern~
 @69 = ~Bugbear Chieftain~
-@70 = ~Goblin Chieftain~
+@70 = ~Goblin Pack Leader~
 @71 = ~Giant Snake~
 @72 = ~Ettercap~
 @73 = ~Winter Wolf~
@@ -223,7 +223,7 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of 1-HD creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. These creatures remain under the caster's control until they are slain, are banished, or until their spell timer runs out.
+This spell conjures a number of 1-HD creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. These creatures remain under the caster's control until they are slain, are banished, or until their spell timer runs out.
 
 1st : 1 1-HD creature
 2nd : 2 1-HD creatures
@@ -320,7 +320,7 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of 2-HD creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. These creatures remain under the caster's control until they are slain, are banished, or until their spell timer runs out.
+This spell conjures a number of 2-HD creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. These creatures remain under the caster's control until they are slain, are banished, or until their spell timer runs out.
 
 3rd : 2 2-HD creatures
 5th : 3 2-HD creatures
@@ -429,7 +429,7 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 3-HD creatures, or gate 1-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 3-HD creatures, or gate 1-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
 
 5th : 2 3-HD creatures
 7th : 3 3-HD creatures
@@ -485,7 +485,7 @@ Special Qualities:
 Immune to web effects
 
 
-Goblin Shaman (3 HD)
+Goblin Witch Doctor (3 HD)
 
 STR 13, DEX 12, CON 14, INT 8, WIS 13, CHA 7; AL Chaotic Evil
 HP 19, AC 6, THAC0 18, Saving Throw 10/14/13/16/15
@@ -573,12 +573,12 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 4-HD creatures, or gate 2-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 4-HD creatures, or gate 2-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
 
-7th : 2 3-HD creatures
-9th : 3 3-HD creatures
-11th : 4 3-HD creatures
-13th+ : 5 3-HD creatures
+7th : 2 4-HD creatures
+9th : 3 4-HD creatures
+11th : 4 4-HD creatures
+13th+ : 5 4-HD creatures
 
 Or
 
@@ -703,7 +703,7 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 5-HD creatures, or gate 3-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 5-HD creatures, or gate 3-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
 
 9th : 2 5-HD creatures
 11th : 3 5-HD creatures
@@ -789,7 +789,7 @@ Combat Abilities:
 Poison: the snake's bite injects a venom which deals 1 hp/sec for 1 turn (save vs. poison at -2 neg.)
 
 
-Goblin Chieftain (5 HD)
+Goblin Pack Leader (5 HD)
 
 STR 18/90, DEX 13, CON 16, INT 10, WIS 13, CHA 10; AL Chaotic Evil
 HP 54, AC 3, THAC0 11, Saving Throw 11/12/10/13/13
@@ -843,7 +843,7 @@ Immune to non-magical weapons
 Immune to web effects
 Magic Resistance 15%
 
-**A helpful way to move the Anhkeg whilst it is burrowed is to click Select All(0)~
+**Even when burrow, the Ankheg is still selectable via drag selection or Select All (0)~
 @169 = ~Creature Summoning VI~
 @170 = ~Creature Summoning VI
 Level: 6
@@ -854,7 +854,7 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 6-HD creatures, or gate 4-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 6-HD creatures, or gate 4-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
 
 12th : 2 6-HD creatures
 14th : 3 6-HD creatures
@@ -863,7 +863,7 @@ This spell conjures a number of creatures that serve the caster unconditionally.
 
 Or
 
-6 4-HD creatures (see Creature Summoning IV) at level 12, plus 1 per caster level, up to 11 at level 16
+5 4-HD creatures (see Creature Summoning IV) at level 12, plus 1 per caster level, up to 10 at level 16
 
 
 Blue Myconid (6 HD)
@@ -981,7 +981,7 @@ HP 68, AC 3, THAC0 10, Saving Throw 11/11/10/12/12
 2 Attacks Per Round, 2d6+3 Piercing or Slashing Damage (Claws and Bite +2), 2d6+3 Piercing Damage (Stinger +2)
 
 Special Qualities:
-Poison: the wyvern's stinger injects a venom which deals 1 hp/sec for 1 turn (save vs. poison at -1 neg.)
+Poison: the wyvern's claws and bite injects a venom which deals 1 hp/sec for 1 turn (save vs. poison at -1 neg.)
 Poison: the wyvern's stinger injects a venom which deals 2 hp/sec for 1 turn (save vs. poison at -2 neg.)
 Immune to grease, web, and entangle effects
 
@@ -1005,7 +1005,7 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 7-HD creatures, or gate 5-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 7-HD creatures, or gate 5-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
 
 14th : 2 7-HD creatures
 16th : 3 7-HD creatures
@@ -1119,7 +1119,7 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 8-HD creatures, or gate 6-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 8-HD creatures, or gate 6-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
 
 16th : 2 8-HD creatures
 18th : 3 8-HD creatures
@@ -1127,7 +1127,7 @@ This spell conjures a number of creatures that serve the caster unconditionally.
 
 Or
 
-5 6-HD creatures (see Creature Summoning VI) at level 14, plus 1 per caster level, up to 9 at level 20
+5 6-HD creatures (see Creature Summoning VI) at level 16, plus 1 per caster level, up to 9 at level 20
 
 
 Fire Elemental (8 HD)
@@ -1286,14 +1286,14 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 9-HD creatures, or gate 7-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 9-HD creatures, or gate 7-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
 
 18th : 2 9-HD creatures
 20th+ : 3 9-HD creatures
 
 Or
 
-4 7-HD creatures (see Creature Summoning VII) at level 14, plus 1 per caster level, up to 6 at level 20
+4 7-HD creatures (see Creature Summoning VII) at level 18, plus 1 per caster level, up to 6 at level 20
 
 
 Djinni (9 HD)
@@ -1416,7 +1416,7 @@ Casting Time: 1 round
 Area of Effect: Special
 Saving Throw: None
 
-This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 9-HD creatures, or gate 7-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 10-HD creatures, or gate 8-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
 
 18th : 3 10-HD creatures
 25th : 4 10-HD creatures
@@ -1469,11 +1469,14 @@ STR 18/80, DEX 16, CON 18, INT 19, WIS 17, CHA 10; AL Chaotic Evil
 HP 101, AC 0, THAC0 1, Saving Throw 7/7/6/8/8
 3 Attacks Per Round, 2d6+10 Crushing Damage (Tentacle +4)
 
-Combat Abilities:
+Combat Abilities (15% chance each):
+Emotion, Hopelessness: creatures harmed by the greater feyr lay down defenseless for 5 rounds (save vs. spell at -2 neg.)
+Emotion, Hatred: creatures harmed by the greater feyr go berserk for 1 turn (save vs. spell at -2 neg.)
+
+Special Abilities:
 Improved Invisibility (once every 5 rounds)
 Horror (once every round)
-Emotion, Hopelessness (x1): hostile creatures with 15' radius lay down defenseless for 5 rounds (save vs. spell at -4 neg.)
-Emotion, Hatred (x1): hostile creatures with 15' radius go berserk for 1 turn (save vs. spell at -4 neg.)
+
 
 Special Qualities:
 Immune to grease, web, and entangle effects
@@ -1691,3 +1694,1673 @@ The mind flayer blasts psionic energy at enemies in a 15' radius, stunning oppon
 @333 = ~8-HD Monsters~
 @334 = ~9-HD Monsters~
 @335 = ~10-HD Monsters~
+@336 = ~Creature Summoning I
+Level: 1
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of 1-HD creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. These creatures remain under the caster's control until they are slain, are banished, or until their spell timer runs out.
+
+1st : 1 1-HD creature
+2nd : 2 1-HD creatures
+3rd : 3 1-HD creatures
+5th : 4 1-HD creatures
+7th+ : 5 1-HD creatures
+
+
+Dog (1 HD)
+
+STR 9, DEX 10, CON 11, INT 6, WIS 8, CHA 6; AL Neutral
+HP 8, AC 9, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Bite)
+
+
+Fire Beetle (1 HD)
+
+STR 8, DEX 11, CON 9, INT 6, WIS 8, CHA 4; AL Neutral
+HP 6, AC 7, THAC0 19, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d3 Piercing Damage, 1 Fire Damage (Bite)
+
+Special Qualities:
+Slashing, Piercing, and Missle Resistance 10%
+
+
+Gibberling (1 HD)
+
+STR 9, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Neutral
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Short Sword)
+
+
+Gnoll (1 HD)
+
+STR 11, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d10 Piercing or Slashing Damage (Halberd)
+
+
+Goblin (1 HD)
+
+STR 10, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 7, AC 9, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Slashing Damage (Battle Axe)
+
+
+Hobgoblin (1 HD)
+
+STR 10, DEX 10, CON 10, INT 8, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d8 Slashing Damage (Long Sword)
+
+
+Kobold (1 HD)
+
+STR 10, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Short Sword)
+
+
+Orc (1 HD)
+
+STR 11, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Slashing Damage (Battle Axe)
+
+
+Spider (1 HD)
+
+STR 9, DEX 11, CON 9, INT 6, WIS 8, CHA 4; AL Neutral
+HP 6, AC 8, THAC0 19, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d4 Piercing Damage (Bite)
+
+
+Tasloi (1 HD)
+
+STR 10, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Spear)
+
+
+Xvart (1 HD)
+
+STR 10, DEX 10, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, 1d6 Piercing Damage (Short Sword)
+
+
+Basic Race (1 HD)
+
+STR 10*, DEX 10*, CON 10*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 8, AC 10, THAC0 20, Saving Throw 14/16/15/17/17
+1 Attack Per Round, X Damage (Special**)
+
+**Humans are equiped with a Quarterstaff
+Elves are equiped with a Short Sword
+Dwarves are equiped with a War Hammer
+Halflings are equiped with a Dagger
+Gnomes are equiped with a Club
+Half-Orcs are equiped with a Club
+
+*Racial Attribute Bonuses and Penalties will be applied~
+@337 = ~Creature Summoning II
+Level: 2
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of 2-HD creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. These creatures remain under the caster's control until they are slain, are banished, or until their spell timer runs out.
+
+3rd : 2 2-HD creatures
+5th : 3 2-HD creatures
+7th : 4 2-HD creatures
+9th+ : 5 2-HD creatures
+
+
+Elite Goblin (2 HD)
+
+STR 12, DEX 12, CON 11, INT 6, WIS 7, CHA 4; AL Chaotic Evil
+HP 16, AC 7, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6 Slashing Damage (Battle Axe)
+
+
+Elite Goblin, Ranged (2 HD)
+
+STR 11, DEX 12, CON 11, INT 6, WIS 7, CHA 4; AL Chaotic Evil
+HP 13, AC 8, THAC0 19, Saving Throw 13/14/14/16/16
+2 Attack Per Round, 1d6 Missile Damage (Arrows x20)
+or 1 Attack Per Round, 1d4 Piercing Damage (Dagger)
+
+
+Elite Orc (2 HD)
+
+STR 16, DEX 10, CON 11, INT 5, WIS 7, CHA 4; AL Chaotic Evil
+HP 16, AC 8, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6+1 Slashing Damage (Battle Axe)
+
+
+Elite Orc, Ranged (2 HD)
+
+STR 16, DEX 10, CON 11, INT 5, WIS 7, CHA 4; AL Chaotic Evil
+HP 13, AC 9, THAC0 19, Saving Throw 13/14/14/16/16
+2 Attack Per Round, 1d6 Missile Damage (Arrows x20)
+or 1 Attack Per Round, 1d4+1 Piercing Damage (Dagger)
+
+
+Green Slime (2 HD)
+
+STR 14, DEX 9, CON -, INT 3, WIS 3, CHA 3; AL Neutral
+HP 16, AC 8, THAC0 17, Saving Throw 13/15/14/16/16
+1 Attack Per Round, 1d4 Crushing +1d4 Acid Damage (Ranged Psuedopod)
+
+Special Qualities:
+Immune to backstab
+Immune to charm, fear, confusion, disease, hold, poison, sleep, and stun effects
+Electrical Resistance 100%
+Missile Resistance 100%
+
+
+Kobold Commando (2 HD)
+
+STR 11, DEX 12, CON 10, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 11, AC 8, THAC0 19, Saving Throw 13/14/14/16/16
+2 Attack Per Round, 1d6 Missile Damage, 1d2 Fire Damage (Arrows of Fire +1 x2); 1d6 Missile Damage (Arrows x20)
+or 1 Attack Per Round, 1d6 Piercing Damage (Short Sword)
+
+
+Lizardman (2 HD)
+
+STR 16, DEX 10, CON 11, INT 6, WIS 6, CHA 4; AL Neutral
+HP 17, AC 8, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6+1 Slashing Damage (Battle Axe)
+
+
+Psuedo-Dragon (2 HD)
+
+STR 8, DEX 14, CON 10, INT 12, WIS 10, CHA 15; AL Neutral Good
+HP 12, AC 7, THAC0 18, Saving Throw 13/14/14/16/16
+2 Attacks Per Round, 1d3 Slashing Damage (Claws), 1d2 Piercing Damage (Stinger)
+
+Combat Abilities:
+Poison: the psuedo-dragon's stinger injects a venom which deals 2 hp/round for 1 turn (save vs. poison neg.)
+Immune to grease, web, and entangle effects
+
+
+Wererat (2 HD)
+
+STR 12, DEX 11, CON 11, INT 9, WIS 6, CHA 4; AL Chaotic Evil
+HP 15, AC 8, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 2d4 Crushing Damage (Morning Star)
+
+
+Werebadger (2 HD)
+
+STR 12, DEX 10, CON 12, INT 7, WIS 6, CHA 4; AL Chaotic Evil
+HP 15, AC 8, THAC0 19, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6 Crushing Damage (Club)
+
+Combat Abilities:
+Barbarian Rage (x1)
+
+
+Wolf (2 HD)
+
+STR 12, DEX 15, CON 12, INT 6, WIS 12, CHA 7; AL Neutral
+HP 16, AC 7, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, 1d6 Piercing Damage (Bite)
+
+
+Basic Race (2 HD)
+
+STR 12*, DEX 10*, CON 11*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 16, AC 9, THAC0 18, Saving Throw 13/14/14/16/16
+1 Attack Per Round, X Damage (Special)
+
+Humans are equiped with a Quarterstaff
+Elves are equiped with a Short Sword
+Dwarves are equiped with a War Hammer
+Halflings are equiped with a Dagger
+Gnomes are equiped with a Club
+Half-Orcs are equiped with a Club
+
+*Racial Attribute Bonuses and Penalties will be applied~
+@338 = ~Creature Summoning III
+Level: 3
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 3-HD creatures, or gate 1-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+
+5th : 2 3-HD creatures
+7th : 3 3-HD creatures
+9th : 4 3-HD creatures
+11th+ : 5 3-HD creatures
+
+Or
+
+5 1-HD creatures (see Creature Summoning I) at level 5, plus 1 per caster level, up to 10 at level 10
+
+
+Black Bear (3 HD)
+
+STR 16, DEX 13, CON 14, INT 7, WIS 12, CHA 5; AL Neutral
+HP 25, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6+1 Slashing Damage (Claws & Bite)
+
+
+Boar (3 HD)
+
+STR 15, DEX 13, CON 16, INT 7, WIS 12, CHA 4; AL Neutral
+HP 31, AC 6, THAC0 17, Saving Throw 12/14/13/15/15
+3/2 Attack Per Round, 1d6 Crushing Damage (Gore)
+
+
+Boring Beetle (3 HD)
+
+STR 15, DEX 13, CON 14, INT 7, WIS 12, CHA 4; AL Neutral
+HP 24, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6 Slashing Damage (Pincers)
+
+Special Qualities:
+Slashing, Piercing, and Missle Resistance 10%
+
+
+Bugbear (3 HD)
+
+STR 16, DEX 14, CON 12, INT 7, WIS 6, CHA 4; AL Chaotic Evil
+HP 25, AC 5, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6+1 Crushing Damage (Club)
+
+
+Huge Spider (3 HD)
+
+STR 12, DEX 13, CON 13, INT 7, WIS 11, CHA 4; AL Neutral
+HP 23, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+1 Attack Per Round, 1d6 Piercing Damage (Leg and Bite)
+
+Combat Abilities:
+Poison: spiders’ bites inject a venom which inflicts 2hp/round for 1 turn (save vs. poison neg.)
+
+Special Qualities:
+Immune to web effects
+
+
+Goblin Witch Doctor (3 HD)
+
+STR 13, DEX 12, CON 14, INT 8, WIS 13, CHA 7; AL Chaotic Evil
+HP 19, AC 6, THAC0 18, Saving Throw 10/14/13/16/15
+1 Attack Per Round, 1d6 Crushing Damage (Quarterstaff)
+
+Memorized Spells:
+1º Bless, Cure Light Wounds, Remove Fear
+2º Chant
+
+
+Gray Ooze (3 HD)
+
+STR 15, DEX 11, CON -, INT 3, WIS 3, CHA 3; AL Neutral
+HP 24, AC 5, THAC0 16, Saving Throw 12/14/13/15/15
+1 Attack Per Round, 1d6 Crushing +2d4 Acid Damage (Melee Pseudopod)
+
+Special Qualities:
+Immune to backstab
+Immune to charm, confusion, disease, hold, poison, sleep, and stun effects
+Fire Resistance 100%, Cold Resistance 100%, Magic Resistance 100%
+
+
+Half Ogre (3 HD)
+
+STR 16, DEX 13, CON 14, INT 7, WIS 6, CHA 4; AL Chaotic Evil
+HP 25, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d8+1 Slashing Damage (Long Sword)
+
+
+Hobgoblin Elite (3 HD)
+
+STR 11, DEX 14, CON 11, INT 9, WIS 6, CHA 5; AL Chaotic Evil
+HP 23, AC 6, THAC0 17, Saving Throw 12/14/13/15/15
+2 Attack Per Round, 1d6 Missile Damage (Arrows of Biting x3); 1d6 Missile Damage (Arrows x25)
+or 1 Attack Per Round, 1d8 Slashing Damage (Long Sword)
+
+Combat Abilities:
+Arrow of Biting: creatures struck by the arrow take 3 hp/round for 1 turn (save vs. death neg.)
+
+
+Hook Horror (3 HD)
+
+STR 16, DEX 13, CON 14, INT 6, WIS 10, CHA 4; AL Neutral
+HP 24, AC 5, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6+1 Slashing Damage (Claw Arms)
+
+
+Ogrillion (3 HD)
+
+STR 18/95, DEX 10, CON 14, INT 6, WIS 6, CHA 4; AL Chaotic Evil
+HP 25, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+1 Attacks Per Round, 1d8+5 Crushing Damage (Fists)
+
+
+Orc Shaman (3 HD)
+
+STR 14, DEX 10, CON 14, INT 8, WIS 13, CHA 7; AL Chaotic Evil
+HP 19, AC 8, THAC0 18, Saving Throw 10/14/13/16/15
+1 Attack Per Round, 1d6 Crushing Damage (Quarterstaff)
+
+Memorized Spells:
+1º Bless, Cure Light Wounds, Remove Fear
+2º Chant
+
+
+Orog (3 HD)
+
+STR 15, DEX 13, CON 14, INT 6, WIS 7, CHA 4; AL Chaotic Evil
+HP 23, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d10 Slashing Damage (Two-Handed Sword)
+
+
+Worg (3 HD)
+
+STR 15, DEX 15, CON 15, INT 7, WIS 6, CHA 4; AL Chaotic Evil
+HP 26, AC 5, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, 1d6 Piercing Damage (Bite)
+
+
+Basic Race Fighter (3 HD)
+
+STR 16*, DEX 12*, CON 14*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 24, AC 6, THAC0 16, Saving Throw 12/14/13/15/15
+3/2 Attacks Per Round, X+1 Damage (Special)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC(+1 to Missle AC), and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (3 HD)
+
+STR 13*, DEX 16*, CON 13*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 20, AC 6, THAC0 17, Saving Throw 12/14/13/15/15
+1 Attack Per Round, X Missile Damage (Bolts or Arrows x40)
+or 1 Attack Per Round, X Damage (Special)
+
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied~
+@339 = ~Creature Summoning IV
+Level: 4
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 4-HD creatures, or gate 2-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+
+7th : 2 4-HD creatures
+9th : 3 4-HD creatures
+11th : 4 4-HD creatures
+13th+ : 5 4-HD creatures
+
+Or
+
+5 2-HD creatures (see Creature Summoning II) at level 7, plus 1 per caster level, up to 10 at level 12
+
+
+Brown Bear (4 HD)
+
+STR 16, DEX 15, CON 16, INT 8, WIS 11, CHA 5; AL Neutral
+HP 37, AC 6, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Slashing Damage (Claws and Bite +1)
+
+
+Doppelganger (4 HD)
+
+STR 14, DEX 14, CON 11, INT 14, WIS 11, CHA 7; AL Neutral Evil
+HP 29, AC 6, THAC0 15, Saving Throw 12/13/10/14/14
+2 Attacks Per Round, 1d6+1 Slashing Damage (Claws +1)
+
+
+Elite Orog (4 HD)
+
+STR 17, DEX 13, CON 15, INT 8, WIS 8, CHA 5; AL Chaotic Evil
+HP 36, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d10+2 Slashing Damage (Two-Handed Sword +1)
+
+
+Flind (4 HD)
+
+STR 16, DEX 15, CON 15, INT 8, WIS 11, CHA 7; AL Chaotic Evil
+HP 36, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d8+2 Slashing Damage (Long Sword +1)
+
+
+Goblin Captain (4 HD)
+
+STR 17, DEX 16, CON 15, INT 8, WIS 8, CHA 7; AL Chaotic Evil
+HP 34, AC 3, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Slashing Damage (Battle Axe +1)
+
+
+Goblin Worg Rider (4 HD)
+
+STR 16, DEX 15, CON 16, INT 7, WIS 7, CHA 7; AL Chaotic Evil
+HP 36, AC 4, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+1 Piercing Damage (Spear +1)
+
+
+Giant Spider (4 HD)
+
+STR 15, DEX 16, CON 13, INT 7, WIS 10, CHA 4; AL Neutral
+HP 32, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+1 Attack Per Round, 1d8+1 Slashing Damage (Leg and Bite +1)
+
+Combat Abilities:
+Poison: spiders’ bites inject a venom which inflicts 3hp/round for 1 turn (save vs. poison neg.)
+
+Special Qualities:
+Immune to web effects
+
+
+Leopard (4 HD)
+
+STR 16, DEX 17, CON 14, INT 7, WIS 12, CHA 7; AL Neutral
+HP 32, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Slashing Damage (Claw and Bite +1)
+
+Special Qualities
+Dash (x1): doubles movement speed for two rounds
+
+
+Kou-toa (4 HD)
+
+STR 16, DEX 16, CON 14, INT 9, WIS 11, CHA 6; AL Neutral Evil
+HP 34, AC 4, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Piercing Damage (Spear +1)
+
+Special Qualities:
+Electrical Resistance 100%, Acid Resistance 50% Fire Resistance -25%
+
+
+Ogre (4 HD)
+
+STR 17, DEX 13, CON 15, INT 6, WIS 6, CHA 7; AL Chaotic Evil
+HP 36, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 2d4+2 Crushing Damage (Morning Star +1)
+
+
+Panther (4 HD)
+
+STR 17, DEX 17, CON 15, INT 7, WIS 12, CHA 7; AL Neutral
+HP 34, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+2 Slashing Damage (Claw and Bite +1)
+
+
+Tough Lizard Man (4 HD)
+
+STR 18, DEX 13, CON 15, INT 6, WIS 8, CHA 4; AL Neutral
+HP 36, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+3 Slashing Damage (Spear +1)
+
+
+Verbeeg (4 HD)
+
+STR 18, DEX 12, CON 16, INT 9, WIS 13, CHA 5; AL Neutral Evil
+HP 38, AC 5, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, 1d6+3 Slashing Damage (Spear +1)
+
+
+Yeti (4 HD)
+
+STR 18/00, DEX 12, CON 16, INT 6, WIS 10, CHA 4; AL Neutral
+HP 36, AC 6, THAC0 14, Saving Throw 12/13/10/14/14
+1 Attack Per Round, 1d6+7 Crushing Damage (Fists +1)
+
+
+Basic Race Fighter (4 HD)
+
+STR 16*, DEX 14*, CON 15*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 36, AC 4, THAC0 14, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, X+2 Damage (Special +1)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC(+1 to Missle AC), and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (4 HD)
+
+STR 13*, DEX 16*, CON 14*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 29, AC 6, THAC0 15, Saving Throw 12/13/10/14/14
+3/2 Attacks Per Round, X+1 Missile Damage (Bolts or Arrows +1 x40)
+or 3/2 Attacks Per Round, X Damage (Special)
+
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied~
+@340 = ~Creature Summoning V
+Level: 5
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 5-HD creatures, or gate 3-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+
+9th : 2 5-HD creatures
+11th : 3 5-HD creatures
+13th : 4 5-HD creatures
+15th+ : 5 5-HD creatures
+
+Or
+
+5 3-HD creatures (see Creature Summoning III) at level 9, plus 1 per caster level, up to 10 at level 14
+
+
+Ankheg** (5 HD)
+
+STR 15, DEX 11, CON 14, INT 8, WIS 11, CHA 4; AL Chaotic Evil
+HP 48, AC 3, THAC0 13, Saving Throw 11/12/10/13/13
+1 Attacks Per Round, 3d4 Acid Damage (Acid Spit +1)
+or 3/2 Attacks Per Round, 1d6+1 Crushing +1d4 Acid Damage (Mandibles +1)
+
+Special Qualities:
+Fire Resistance 20%
+
+
+Baby Wyvern (5 HD)
+
+STR 14, DEX 15, CON 14, INT 8, WIS 10, CHA 5; AL Neutral
+HP 50, AC 3, THAC0 12, Saving Throw 11/12/10/13/13
+2 Attacks Per Round, 1d6+1 Piercing Damage (Claws and Bite +1), 1d6+1 Piercing Damage (Stinger +1)
+
+Combat Abilites:
+Poison: the wyvern's stinger injects a venom which deals 4 hp/round for 1 turn (save vs. poison neg.)
+Poison: the wyvern's stinger injects a venom which deals 5 hp/round for 1 turn (save vs. poison neg.)
+Immune to grease, web, and entangle effects
+
+
+Bugbear Chieftain (5 HD)
+
+STR 18/90, DEX 13, CON 17, INT 10, WIS 13, CHA 10; AL Chaotic Evil
+HP 58, AC 4, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 2d4+5 Crushing Damage (Morning Star +1)
+
+Combat Abilities:
+Berserker Rage (x1)
+
+
+Carrion Crawler (5 HD)
+
+STR 11, DEX 15, CON 12, INT 8, WIS 12, CHA 4; AL Neutral
+HP 44, AC 3, THAC0 12, Saving Throw 11/12/10/13/13
+2 Attacks Per Round, 1d6+1 Crushing Damage (Tentacles +1)
+
+Combat Abilities:
+Poison: the crawler's tentacles injects a venom which paralyzes the enemy for 5 rounds (save vs. poison neg.)
+
+
+Cave Bear (5 HD)
+
+STR 18/00, DEX 14, CON 17, INT 7, WIS 12, CHA 10; AL Neutral
+HP 60, AC 4, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 2d4+8 Slashing Damage (Claws +1)
+
+
+Ettercap (5 HD)
+
+STR 15, DEX 15, CON 14, INT 6, WIS 11, CHA 7; AL Chaotic Evil
+HP 49, AC 3, THAC0 12, Saving Throw 11/12/10/13/13
+2 Attacks Per Round, 1d6+1 Slashing Damage (Claws +1), 1d6+1 Piercing Damage (Bite +1)
+
+Combat Abilities:
+Poison: the ettercap's bite injects a venom which deals 4 hp/round for 1 turn (save vs. poison at neg.)
+Web (once every 1 turn): The ettercap throws a web on a target, ensnaring the victim for 5 rounds (save vs. death neg.)
+
+Special Qualities:
+Immune to web effects
+
+
+Giant Snake (5 HD)
+
+STR 16, DEX 17, CON 15, INT 7, WIS 12, CHA 6; AL Neutral
+HP 54, AC 2, THAC0 11, Saving Throw 11/12/10/13/13
+1 Attack Per Round, 1d6+2 Piercing Damage (Bite +1)
+
+Combat Abilities:
+Poison: the snake's bite injects a venom which deals 1 hp/sec for 1 turn (save vs. poison at -2 neg.)
+
+
+Goblin Pack Leader (5 HD)
+
+STR 18/90, DEX 13, CON 16, INT 10, WIS 13, CHA 10; AL Chaotic Evil
+HP 54, AC 3, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 1d6+5 Crushing Damage (Spear +1)
+
+
+Myconid (5 HD)
+
+STR 16, DEX 15, CON 14, INT 8, WIS 12, CHA 7; AL Neutral
+HP 51, AC 4, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 1d6+2 Crushing Damage (Slam +1)
+
+Combat Abilities:
+Confusion Spores (once every 1 turn): the myconid throws a cluster of spores on the target, confusing the victim for rounds (save vs. spell neg.)
+
+
+Ogre Berserker (5 HD)
+
+STR 18/90, DEX 13, CON 17, INT 7, WIS 7, CHA 5; AL Chaotic Evil
+HP 58, AC 4, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 2d4+5 Crushing Damage (Morning Star +1)
+
+Combat Abilities:
+Berserker Rage (x1)
+
+
+Winter Wolf (5 HD)
+
+STR 16, DEX 18, CON 16, INT 8, WIS 12, CHA 7; AL Neutral
+HP 57, AC 3, THAC0 11, Saving Throw 11/12/10/13/13
+1 Attack Per Round, 1d6+2 Piercing Damage (Bite +1)
+
+Combat Abilities:
+Frost Breath (once every 1 turn): the winter wolf breathes a blast of cold at an enemy, dealing 4d6 damage (save vs. breath halves)
+
+Special Qualities:
+Cold Resistance 100%
+
+
+Wraith Spider (5 HD)
+
+STR 16, DEX 17, CON 15, INT 10, WIS 13, CHA 6; AL Chaotic Evil
+HP 51, AC 4, THAC0 12, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, 1d6+2 Piercing Damage (Bite +1)
+
+Combat Abilities:
+Poison: spiders’ bites inject a venom which inflicts 3hp/round for 1 turn (save vs. poison neg.)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to web effects
+Magic Resistance 15%
+
+
+Basic Race Fighter (5 HD)
+
+STR 18/00*, DEX 15*, CON 17*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 60, AC 3, THAC0 11, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, X+8 Damage (Random Light or Martial Weapon +1**)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (5 HD)
+
+STR 16*, DEX 16*, CON 14*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 50, AC 5, THAC0 12, Saving Throw 11/12/10/13/13
+3/2 Attacks Per Round, X+2 Missile Damage (Bolts or Arrows +1 x40)
+or 3/2 Attacks Per Round, X+1 Damage (Random Light Weapon +1**)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied
+**Even when burrow, the Ankheg is still selectable via drag selection or Select All (0)~
+@341 = ~Creature Summoning VI
+Level: 6
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 6-HD creatures, or gate 4-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Death Spell and Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+
+12th : 2 6-HD creatures
+14th : 3 6-HD creatures
+16th : 4 6-HD creatures
+18th+ : 5 6-HD creatures
+
+Or
+
+5 4-HD creatures (see Creature Summoning IV) at level 12, plus 1 per caster level, up to 10 at level 17
+
+
+Barbarian (6 HD)
+
+STR 17, DEX 15, CON 18, INT 10, WIS 13, CHA 9; AL Chaotic Neutral
+HP 70, AC 4, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 1d6+6 Slashing Damage (Battle Axe +2)
+
+Combat Abilities:
+Barbarian Rage (x1)
+
+Special Qualites:
+Immune to backstab
+
+
+Blue Myconid (6 HD)
+
+STR 18, DEX 16, CON 17, INT 10, WIS 13, CHA 7; AL Neutral
+HP 68, AC 4, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 2d6+4 Crushing Damage (Slam +2)
+
+Special Qualities:
+Confusing Spores (once every 1 turn): the myconid throws a cluster of spores on the target, confusing the target for 1 turn (save vs. spell at -2 neg.)
+
+
+Dark Treant (6 HD)
+
+STR 18/00, DEX 10, CON -, INT 8, WIS 13, CHA 7; AL Chaotic Evil
+HP 69, AC 4, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 2d6+8 Crushing Damage (Slam +2)
+
+Special Qualities:
+Immune to hold, poison, sleep, & stun effects
+Fire Resistance -25%
+
+
+Fire Salamander (6 HD)
+
+STR 16, DEX 17, CON 16, INT 10, WIS 14, CHA 7; AL Neutral Evil
+HP 63, AC 3, THAC0 9, Saving Throw 11/11/10/12/12
+1 Attacks Per Round, 1d6+3 Piercing +1d6 Fire Damage (Bite +2)
+
+Combat Abilities:
+Heated Body: opponents take 1d6 Fire Damage when the salamander is hit with an attack or spell within 5' radius
+
+Special Qualities:
+Fire Resistance 100%
+
+
+Frost Salamander (6 HD)
+
+STR 16, DEX 17, CON 16, INT 10, WIS 14, CHA 7; AL Neutral Evil
+HP 63, AC 3, THAC0 9, Saving Throw 11/11/10/12/12
+1 Attacks Per Round, 1d6+3 Piercing +1d6 Cold Damage (Bite +2)
+
+Combat Abilities:
+Chilled Body: opponents take 1d6 Cold Damage when the salamander is hit with an attack or spell within 5' radius
+
+Special Qualities:
+Cold Resistance 100%
+
+
+Harpy (6 HD)
+
+STR 17, DEX 18, CON 16, INT 14, WIS 13, CHA 11; AL Chaotic Evil
+HP 64, AC 3, THAC0 9, Saving Throw 11/11/10/12/12
+3 Attacks Per Round, 1d12+3 Slashing Damage (Claws +2)
+
+Special Qualities:
+Immune to grease, web, and entangle effects
+
+
+Ochre Jelly (6 HD)
+
+STR 16, DEX 9, CON -, INT 3, WIS 3, CHA 3; AL Neutral
+HP 68, AC 3, THAC0 9, Saving Throw 11/10/11/12/11
+2 Attacks Per Round, 2d4+3 Crushing +2d6 Acid Damage (Melee Pseudopod +2)
+
+Special Qualities:
+Immune to backstab
+Immune to charm, confusion, disease, hold, poison, sleep, and stun effects
+Electrical Resistance 100%
+Slashing Resistance 100%
+
+
+Ogre Mage (6 HD)
+
+STR 18/00, DEX 14, CON 17, INT 15, WIS 11, CHA 7; AL Chaotic Evil
+HP 59, AC 5, THAC0 9, Saving Throw 11/11/10/12/12
+3/2 Attacks Per Round, 1d10+8 Slashing Damage (Katana +2)
+
+Special Qualities:
+Invisibility (at will)
+
+Memorized Spells:
+1º Magic Missile (x2), Shield
+2º Horror, Mirror Image
+3º Dire Charm, Slow
+
+
+Phase Spider (6 HD)
+
+STR 15, DEX 16, CON 17, INT 10, WIS 14, CHA 7; AL Neutral
+HP 68, AC 5, THAC0 10, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 1d8+2 Piercing Damage (Bite +2)
+
+Combat Abilities:
+Phase Shift (once every 3 rounds): teleports the phase spider to any area within line of sight
+
+Special Qualities:
+Poison: spiders’ bites inject a venom which inflicts 1hp/sec for 1 turn (save vs. poison at -2 neg.)
+
+
+Werewolf (6 HD)
+
+STR 18/00, DEX 18, CON 17, INT 10, WIS 13, CHA 7; AL Chaotic Evil
+HP 64, AC 2, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 1d6+8 Slashing Damage (Claws +2)
+
+Special Qualities:
+Immune to non-magical weapons
+
+
+Wyvern (6 HD)
+
+STR 16, DEX 14, CON 16, INT 8, WIS 11, CHA 5; AL Neutral
+HP 68, AC 3, THAC0 10, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 2d6+3 Piercing or Slashing Damage (Claws and Bite +2), 2d6+3 Piercing Damage (Stinger +2)
+
+Special Qualities:
+Poison: the wyvern's claws and bite injects a venom which deals 1 hp/sec for 1 turn (save vs. poison at -1 neg.)
+Poison: the wyvern's stinger injects a venom which deals 2 hp/sec for 1 turn (save vs. poison at -2 neg.)
+Immune to grease, web, and entangle effects
+
+
+Yuan-Ti (6 HD)
+
+STR 18/00, DEX 17, CON 15, INT 13, WIS 12, CHA 13; AL Neutral Evil
+HP 69, AC 3, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, 2d4+8 Slashing Damage (Bastard Sword +2)
+
+Special Qualities:
+Fire, Cold, Electrical, and Acid Resistance 30%
+Magic Resistance 20%
+
+
+Basic Race Fighter (6 HD)
+
+STR 18/00*, DEX 16*, CON 18*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 70, AC 2, THAC0 9, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, X+9 Damage (Special +2)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (6 HD)
+
+STR 16*, DEX 17*, CON 15*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 63, AC 4, THAC0 10, Saving Throw 11/11/10/12/12
+2 Attacks Per Round, X+6 Missile Damage (Bolts or Arrows +2 x60)
+or 2 Attacks Per Round, X+3 Damage (Special +2)
+
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied~
+@342 = ~Creature Summoning VII
+Level: 7
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 7-HD creatures, or gate 5-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+
+14th : 2 7-HD creatures
+16th : 3 7-HD creatures
+18th+ : 4 7-HD creatures
+
+Or
+
+5 5-HD creatures (see Creature Summoning V) at level 14, plus 1 per caster level, up to 10 at level 19
+
+
+Barbarian Shaman (7 HD)
+
+STR 18, DEX 13, CON 16, INT 10, WIS 16, CHA 10; AL Chaotic Random
+HP 63, AC 5, THAC0 11, Saving Throw 7/11/10/13/12
+1 Attacks Per Round, X+5 Damage (Random Cleric Melee Weapon +3)
+
+Memorized Spells
+1º Armor of Faith, Bless, Cure Light Wounds (x2), Doom
+2º Chant, Charm Person or Mammal, Resist Elements, Slow Poison
+3º Cure Medium Wounds, Spiritual Clarity, Strength of One
+4º Defensive Harmony, Spirit Fire
+
+
+Elder Kou-toa (7 HD)
+
+STR 18/50, DEX 16, CON 17, INT 10, WIS 16, CHA 12; AL Chaotic Evil
+HP 74, AC 2, THAC0 7, Saving Throw 11/10/9/11/11
+3 Attacks Per Round, 1d6+6 Piercing Damage (Spear +3)
+
+Special Qualities:
+Electrical Resistance 100%, Acid Resistance 50% Fire Resistance -25%
+
+
+Greater Yuan-Ti (7 HD)
+
+STR 18/95, DEX 17, CON 18, INT 14, WIS 13, CHA 14; AL Neutral Evil
+HP 77, AC 3, THAC0 7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, 1d10+6 Slashing Damage (Two-Handed Sword +3)
+
+Special Qualities:
+Fire, Cold, Electrical, and Acid Resistance 30%
+Magic Resistance 20%
+
+
+Minotaur (7 HD)
+
+STR 19, DEX 13, CON 19, INT 8, WIS 12, CHA 8; AL Neutral
+HP 82, AC 3, THAC0 7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, 1d6+10 Slashing Damage (Battle Axe +3)
+
+
+Mustard Jelly (7 HD)
+
+STR 17, DEX 13, CON -, INT 3, WIS 3, CHA 3; AL Neutral
+HP 75, AC 3, THAC0 7, Saving Throw 11/10/9/11/11
+2 Attacks Per Round, 1d6+4 Crushing +2d4 Acid Damage (Ranged Pseudopod +3)
+
+Combat Abilites:
+Slow: the jelly's strikes slow the target for 3 rounds (save vs. spell at -3 neg.)
+
+Special Qualities
+Immune to non-magical weapons
+Immune to backstab
+Immune to charm, confusion, disease, hold, poison, sleep, and stun effects
+Electrical Resistance 100%, Magic Resistance 100%
+Missle Resistance 100%
+
+
+Orog Chieftain (7 HD)
+
+STR 19, DEX 14, CON 18, INT 10, WIS 14, CHA 10; AL Chaotic Evil
+HP 80, AC 3, THAC0 7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, 1d10+10 Slashing Damage (Two-Handed Sword +3)
+
+
+Otyugh (7 HD)
+
+STR 16, DEX 10, CON 14, INT 5, WIS 12, CHA 5; AL Neutral
+HP 74, AC 3, THAC0 8, Saving Throw 11/10/9/11/11
+3 Attacks Per Round, 1d6+4 Crushing Damage (Tentacles +3), 1d6+4 Piercing Damage (Bite +3)
+
+Combat Abilities:
+Disease: the otyugh's bite injects a disease in the victim, slowing movement and causing 1 point of damage per round for 1 turn (save vs. death at -4 neg.)
+
+Special Qualities:
+Immune to disease effects
+Slashing, Crushing, & Piercing Resistance 5%; Missile Resistance 100%
+
+
+Polar Bear (7 HD)
+
+STR 19, DEX 13, CON 18, INT 7, WIS 12, CHA 7; AL Neutral
+HP 79, AC 4, THAC0 7, Saving Throw 11/10/9/11/11
+2 Attacks Per Round, 2d6+10 Slashing Damage (Claws +3)
+
+
+Sahuagin Prince (7 HD)
+
+STR 18/50, DEX 14, CON 17, INT 12, WIS 15, CHA 16; AL Lawful Evil
+HP 74, AC 3, THAC0 8/7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, 1d6+5 Missle Damage (Crossbow +3 x40)
+or 5/2 Attacks Per Round, 1d6+6 Piercing Damage (Spear +3)
+
+Special Qualities:
+Fire Resistance -25%
+
+
+Sword Spider (7 HD)
+
+STR 15, DEX 16, CON 14, INT 7, WIS 12, CHA 4; AL Neutral
+HP 70, AC 3, THAC0 10, Saving Throw 11/10/9/11/11
+4 Attacks Per Round, 2d6+3 Piercing Damage (Legs +3), 2d6+3 Piercing Damage (Bite +3)
+
+Special Qualities:
+Poison: spiders’ bites inject a venom which inflicts 1hp/sec for 1 turn (save vs. poison at -3 neg.)
+Permanent Haste
+
+
+Basic Race Fighter (7 HD)
+
+STR 19*, DEX 16*, CON 18*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 81, AC 1, THAC0 7, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, X+10 Damage (Special +3)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (7 HD)
+
+STR 16*, DEX 18*, CON 15*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 72, AC 3, THAC0 8, Saving Throw 11/10/9/11/11
+5/2 Attacks Per Round, X+5 Missile Damage (Bolts or Arrows +3 x60)
+or 5/2 Attacks Per Round, X+4 Damage (Special +3)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied~
+@343 = ~Creature Summoning VIII
+Level: 8
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 8-HD creatures, or gate 6-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+
+16th : 2 8-HD creatures
+18th : 3 8-HD creatures
+20th+ : 4 8-HD creatures
+
+Or
+
+5 6-HD creatures (see Creature Summoning VI) at level 16, plus 1 per caster level, up to 9 at level 20
+
+
+Drow Warrior (8 HD)
+
+STR 18/80, DEX 19, CON 17, INT 15, WIS 12, CHA 13; AL Neutral Evil
+HP 88, AC 1, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 1d6+8 Slashing Damage (Scimitar +3)
+
+Special Qualities:
+Magic Resistance 65%
+
+
+Fire Elemental (8 HD)
+
+STR 18/50, DEX 16, CON 17, INT 8, WIS 12, CHA 10; AL Neutral
+HP 85, AC 2, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 2d4+6 Crushing, +2d4 Fire Damage (Fist +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to hold, poison, sleep, & stun effects
+Fire Resistance 100%
+
+
+Water Elemental (8 HD)
+
+STR 20, DEX 13, CON 18, INT 8, WIS 12, CHA 10; AL Neutral
+HP 91, AC 3, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 2d4+10 Crushing, (Fist +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to hold, poison, sleep, & stun effects
+Fire Resistance 75%
+
+Earth Elemental (8 HD)
+
+STR 22, DEX 10, CON 19, INT 8, WIS 12, CHA 10; AL Neutral
+HP 95, AC 4, THAC0 6, Saving Throw 10/10/9/10/10
+5/2 Attacks Per Round, 2d6+13 Crushing (Fist +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to hold, poison, sleep, & stun effects
+
+
+Air Elemental (8 HD)
+
+STR 20, DEX 20, CON 17, INT 8, WIS 12, CHA 10; AL Neutral
+HP 87, AC 0, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 2d4+6 Crushing, (Fist +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to hold, poison, sleep, & stun effects
+
+
+Fomorion (8 HD)
+
+STR 21, DEX 11, CON 20, INT 8, WIS 12, CHA 4; AL Chaotic Evil
+HP 99, AC 4, THAC0 6, Saving Throw 10/10/9/10/10
+5/2 Attacks Per Round, 2d6+11 Crushing Damage (Fist +3)
+
+
+Githyanki (8 HD)
+
+STR 18/50, DEX 15, CON 16, INT 16, WIS 12, CHA 14; AL Lawful Evil
+HP 77, AC 2, THAC0 6, Saving Throw 10/10/9/10/10
+2 Attacks Per Round, 2d4+6 Slashing Damage (Bastard Sword +3)
+
+Combat Abilities:
+Kinetic Blast (once every 1 turn): hurls a blast of psionic energy which deals 8d8 damage (save vs. spell at -4 halves)
+
+
+Greater Doppelganger (8 HD)
+
+STR 17, DEX 15, CON 15, INT 8, WIS 12, CHA 10; AL Neutral Evil
+HP 65, AC 4, THAC0 7, Saving Throw 10/10/9/10/10
+4 Attacks Per Round, 1d6+4 Slashing Damage (Claw +3)
+
+Memorized Spells:
+2º Mirror Image
+3º Haste
+
+
+Invisible Stalker (8 HD)
+
+STR 18/80, DEX 16, CON 17, INT 8, WIS 12, CHA 10; AL Neutral
+HP 80, AC -2, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 2d6+7 Crushing Damage (Fist +3)
+
+Special Qualities:
+Natural Invisibility: constantly invisible as if affected by an Improved Invisibility spell
+Immune to hold, poison, sleep, & stun effects
+
+
+Lizard King (8 HD)
+
+STR 18/00, DEX 13, CON 17, INT 11, WIS 16, CHA 15; AL Neutral
+HP 85, AC 2, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 1d6+10 Piercing Damage (Spear +3)
+
+Memorized Spells:
+1º Armor of Faith, Remove Fear
+2º Draw Upon Holy Might
+
+
+Orog Warpriest (8 HD)
+
+STR 18/00, DEX 11, CON 17, INT 9, WIS 17, CHA 12; AL Chaotic Evil
+HP 79, AC 3, THAC0 8, Saving Throw 10/10/9/10/10
+2 Attacks Per Round, 1d6+9 Crushing Damage (Flail +3)
+
+Memorized Spells:
+1º Armor of Faith, Bless, Command, Doom, Remove Fear
+2º Aid, Chant, Hold Person, Silence, 15'Radius
+3º Animate Dead, Cure Medium Wounds, Unholy Blight
+4º Free Action
+
+
+Umber Hulk (8 HD)
+
+STR 20, DEX 13, CON 18, INT 8, WIS 9, CHA 8; AL Neutral
+HP 89, AC 2, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 1d8+11 Piercing or Slashing Damage (Claws and Bite +3)
+
+Combat Abilities:
+Immune to confusion effects
+Confusing Gaze (once every 5 rounds): the umber hulk throws a gaze at a creature, confusing the target for 1 turn (save vs. death at -3 neg.)
+
+
+Yuan-Ti Halfbreed (8 HD)
+
+STR 18/00, DEX 19, CON 18, INT 16, WIS 12, CHA 16; AL Neutral Evil
+HP 93, AC 0, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, 1d6+9 Crushing Damage (Scimitar +3)
+
+Special Qualities:
+Magic Resistance 50%
+
+
+Yuan-Ti Mage (8 HD)
+
+STR 10, DEX 12, CON 12, INT 18, WIS 10, CHA 10; AL Neutral Evil
+HP 45, AC 6, THAC0 14, Saving Throw 13/9/11/13/10
+3 Attacks Per Round, 1d3+3 Missile Damage (Darts +3 x40)
+or 1 Attack Per Round, 1d4+3 Piercing Damage (Dagger +3)
+
+Memorized Spells:
+1º Charm Person, Chromatic Orb, Magic Missle (x2), Shield
+2º Blur,  Horror, Invisibility, Mirror Image
+3º Dire Charm, Flame Arrow, Haste
+4º Fire Shield (Red), Spirit Armor, Stoneskin
+5º Animate Dead, Chaos
+
+Special Qualities:
+Fire, Cold, Electrical, and Acid Resistance 30%
+Magic Resistance 20%
+
+
+Basic Race Fighter (8 HD)
+
+STR 20*, DEX 17*, CON 18*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 94, AC 0, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, X+11 Damage ((Special +3)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -1 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (8 HD)
+
+STR 18*, DEX 18*, CON 16*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 80, AC 4, THAC0 6, Saving Throw 10/10/9/10/10
+3 Attacks Per Round, X+5 Missile Damage (Bolts or Arrows +3 x60)
+or 3 Attacks Per Round, X+5 Damage ((Special +3)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied~
+@344 = ~Creature Summoning IX
+Level: 9
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and the number of creatures is based on the caster's level. This spell can either summon 9-HD creatures, or gate 7-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+
+18th : 2 9-HD creatures
+20th+ : 3 9-HD creatures
+
+Or
+
+4 7-HD creatures (see Creature Summoning VII) at level 18, plus 1 per caster level, up to 6 at level 20
+
+
+Djinni (9 HD)
+
+STR 18/00, DEX 19, CON 17, INT 19, WIS 16, CHA 18; AL Chaotic Good
+HP 90, AC 1, THAC0 5, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, 1d8+9 Slashing Damage (Scimitar +3)
+
+Memorized Spells:
+1º Magic Missle (x3), Shield
+2º Invisibility, Mirror Image
+3º Haste, Lightning Bolt
+4º Minor Globe of Invulnerability
+5º Spell Immunity
+
+
+Drider (9 HD)
+
+STR 20, DEX 19, CON 21, INT 14, WIS 17, CHA 8; AL Chaotic Evil
+HP 104, AC 4, THAC0 4, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, 1d6+13 Slashing Damage (Battle Axe +3)
+
+Special Qualites:
+Immune to web effects
+
+
+Drow Priestess (9 HD)
+
+STR 18, DEX 18, CON 16, INT 16, WIS 18, CHA 18; AL Lawful Evil
+HP 70, AC 2, THAC0 9, Saving Throw 7/11/10/13/12
+2 Attacks Per Round, 1d6+5 Crushing Damage (Flail +3)
+
+Special Qualities:
+Magic Resistance 65%
+
+Memorized Spells:
+1º Armor of Faith (x2), Bless, Command, Doom, Remove Fear
+2º Aid, Chant, Hold Person, Draw Upon Holy Might (x2)
+3º Animate Dead (x2), Cure Medium Wounds, Dispel Magic
+4º Death Ward, Free Action, Poison
+5º Flame Strike, True Seeing
+6º Aerial Servant
+
+
+Efreeti (9 HD)
+
+STR 18/00, DEX 17, CON 18, INT 19, WIS 16, CHA 18; AL Chaotic Evil
+HP 96, AC 3, THAC0 5, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, 1d8+9 Slashing +1d6 Fire Damage (Scimitar +3)
+
+Special Qualities:
+Fire Resistance 100%
+
+Memorized Spells:
+1º Magic Missle (x3), Shield
+2º Horror, Vocalize
+3º Fireball, Flame Arrow
+4º Fire Shield (Red) 
+5º Lower Resistance
+
+
+Frost Giant (9 HD)
+
+STR 23, DEX 13, CON 22, INT 9, WIS 12, CHA 7; AL Chaotic Evil
+HP 110, AC 4, THAC0 4, Saving Throw 9/9/8/9/9
+5/2 Attacks Per Round, 3d6+14 Slashing Damage (Battle Axe +3)
+
+Special Qualites:
+Cold Resistance: 100%
+
+
+Gauth (9 HD)
+
+STR 12, DEX 14, CON 14, INT 17, WIS 15, CHA 10; AL Neutral Evil
+HP 80, AC 3, THAC0 4, Saving Throw 9/9/8/9/9
+1 Attack Per Round, Special (Eyestalks +3)
+
+Special Qualites:
+Lighting Bolt Eyestalk: 9d6 Lightning Damage (save vs. spell neg.)
+Cause Serious Wounds Eyestalk:  17 Magic Damage (no save, Magic Resistance is ignored)
+Hold Person Eyestalk (save vs. spell at -2 neg.)
+Immune to grease, web, and entangle effects
+
+
+Greater Werewolf (9 HD)
+
+STR 21, DEX 19, CON 23, INT 13, WIS 16, CHA 10; AL Chaotic Evil
+HP 92, AC 0, THAC0 5, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, 1d12+12 Slashing Damage (Fist +3)
+
+Special Qualites:
+Immune to non-magical weapons
+Fire, Cold, Electrical, and Acid Resistance 50%
+Magic Resistance 50%
+Rengeneration: 2hp/sec
+
+
+Night Hag (9 HD)
+
+STR 18/00, DEX 16, CON 18, INT 19, WIS 17, CHA 16; AL Chaotic Evil
+HP 90, AC 3, THAC0 4, Saving Throw 9/9/8/9/9
+2 Attacks Per Round, 1d6+9 Slashing Damage (Claws +3)
+
+Combat Abilities:
+Magic Missle (at will)
+Ray of Enfeeblement (x2)
+Sleep (x2)
+
+Special Qualites:
+Demon Fever: creatures struck by the hag's attacks must save vs. death at -2 or suffer from demon fever, causing the victim to lose 2 Constitution after a 10 hour incubation period
+Cold and Fire Resistance: 40%
+Magic Resistance: 30%
+
+
+Rakshasa (9 HD)
+
+STR 18/80, DEX 19, CON 16, INT 19, WIS 16, CHA 18; AL Chaotic Good
+HP 80, AC 1, THAC0 5, Saving Throw 9/9/8/9/9
+2 Attacks Per Round, 1d8+7 Slashing Damage (Scimitar +3)
+
+Special Qualities:
+Immune to non-magical weapons
+Immune to spells lower than Level 6
+
+Memorized Spells:
+1º Magic Missle (x3)
+2º Melf's Acid Arrow, Horror
+3º Flame Arrow, Spell Thrust
+4º Secret Word
+5º Breach
+
+
+Basic Race Fighter (9 HD)
+
+STR 23*, DEX 18*, CON 18*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 103, AC -1, THAC0 4, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, X+14 Damage (Special +3)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -2 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (9 HD)
+
+STR 18/80*, DEX 18*, CON 16*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 89, AC 2, THAC0 4, Saving Throw 9/9/8/9/9
+3 Attacks Per Round, X+8 Missile Damage (Bolts or Arrows +3 x60)
+or 3 Attacks Per Round, X+7 Damage (Special +3)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied~
+@345 = ~Creature Summoning X
+Level: 10
+School: Conjuration
+Range: Medium
+Duration: 3 turns
+Casting Time: 1 round
+Area of Effect: Special
+Saving Throw: None
+
+This spell conjures a number of creatures that serve the caster unconditionally. The type is random and number is based on the caster's level. This spell can either summon 10-HD creatures, or gate 8-HD creatures. Creatures that gated are more numerous, are immune to any spell or ability that affects summoned creatures such as Banishment, and circumvent the summon limit. These creatures remain under the caster's control until they are slain or until their spell timer runs out.
+
+18th : 3 10-HD creatures
+25th : 4 10-HD creatures
+30th+ : 5 10-HD creatures
+
+Or
+
+5 8-HD creatures (see Creature Summoning VIII) at level 14, plus 1 per 3 caster levels, up to 9 at level 30
+
+Beholder (10 HD)
+
+STR 14, DEX 14, CON 14, INT 20, WIS 16, CHA 18; AL Neutral Evil
+HP 92, AC 2, THAC0 1, Saving Throw 7/7/6/8/8
+1 Attack Per Round, Special (Eyestalks +4)
+
+Special Qualites:
+Disintegration Eyestalk: deals 15d6 Magic Damage (save vs. spell at -2, 5d6 on a failed save)
+Cause Critical Wounds Eyestalk:  27 Magic Damage (no save, Magic Resistance is ignored)
+Death Ray Eyestalk: causes the victim to die (save vs. death at +2)
+Paralyzing Eyestalk (save vs. spell at -2 neg.)
+Immune to grease, web, and entangle effects
+
+
+Cambion (10 HD)
+
+STR 21, DEX 19, CON 21, INT 19, WIS 17, CHA 19; AL Lawful Evil
+HP 101, AC -1, THAC0 2, Saving Throw 7/7/6/8/8
+4 Attacks Per Round, 1d6+13 Slashing Damage (Scimitars +4)
+
+Special Qualites:
+Immune to non-magical weapons
+Electrical Resistance 75%, Acid, Cold and Fire Resistance 25%
+Magic Resistance 30%
+
+
+
+Chimera (10 HD)
+
+STR 21, DEX 13, CON 22, INT 7, WIS 12, CHA 7; AL Chaotic Evil
+HP 113, AC 2, THAC0 2, Saving Throw 7/7/6/8/8
+4 Attacks Per Round, 2d6+13 Slashing or Piercing Damage (Claws, Horn, or Bite +4)
+
+Combat Abilities:
+Breath Weapon (once every 1 turn): the chimera's dragon head exhales a breath of fire, damaging enemies in a 15' cone for 10d6 Fire Damage (save vs. breath at -2 halves)
+
+
+Greater Feyr (10 HD)
+
+STR 18/80, DEX 16, CON 18, INT 19, WIS 17, CHA 10; AL Chaotic Evil
+HP 101, AC 0, THAC0 1, Saving Throw 7/7/6/8/8
+3 Attacks Per Round, 2d6+10 Crushing Damage (Tentacle +4)
+
+Combat Abilities (15% chance each):
+Emotion, Hopelessness: creatures harmed by the greater feyr lay down defenseless for 5 rounds (save vs. spell at -2 neg.)
+Emotion, Hatred: creatures harmed by the greater feyr go berserk for 1 turn (save vs. spell at -2 neg.)
+
+Special Abilities:
+Improved Invisibility (once every 5 rounds)
+Horror (once every round)
+
+
+Special Qualities:
+Immune to grease, web, and entangle effects
+Magic Resistance 40%
+
+
+Half-Dragon (Blue, Black, Red, or Green) (10 HD)
+
+STR 23, DEX 19, CON 22, INT 19, WIS 17, CHA 19; AL Chaotic Evil
+HP 115, AC -1, THAC0 1, Saving Throw 7/7/6/8/8
+3 Attacks Per Round, 1d10+15 Slashing Damage (Two-Handed Sword +4)
+
+Combat Abilities:
+Breath Weapon (once every 1 turn): the half-dragon exhales a breath of energy, damaging enemies in a 15' cone for 10d6 Elemental Damage (save vs. breath at -2 halves)
+
+Special Qualites:
+Immune to half-dragon's element (Cold for Blue, Acid for Black, Fire for Red, and Poison for Green)
+Immune to sleep and paralysis
+Magic Resistance 50%
+
+
+Mind Flayer (10 HD)
+
+STR 14, DEX 13, CON 16, INT 23, WIS 18, CHA 18; AL Lawful Evil
+HP 80, AC 2, THAC0 6, Saving Throw 7/7/6/8/8
+1 Attack Per Round, 1d4+4 Crushing Damage (Brain Devour +4)
+
+Combat Abilities:
+Ability Score Drain: -5 to target's intelligence for 5 rounds
+Psionic Blast (once every 1 turn): stuns opponents within 15’ radius for 1 turn (save vs. spell negates)
+
+Special Qualites:
+Magic Resistance 90%
+
+
+Basic Race Fighter (10 HD)
+
+STR 24*, DEX 19*, CON 19*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 123, AC -2, THAC0 1, Saving Throw 7/7/6/8/8
+7/2 Attacks Per Round, X+16 Damage (Special +4)
+
+Humans wields either Long Sword(s), or a Halberd
+Elves wields either Long Sword(s), or a Two-Handed Sword
+Dwarves wields either Battle Axe(s), or a Halberd
+Halflings wields either Short Sword(s), or a Spear
+Gnomes wields either Flail(s), or a Quarterstaff
+Half Orcs wields either Mace(s), or a Two-Handed Sword
+
+Fighters are summoned either with a single-handed weapons and shield (cosmetic), a two-handed weapon, or with 2 single-handed weapons
+Shields give -2 AC, and Duel-Wielding gives +1 APR, but incurs +4 THAC0 penalty on the off-hand
+
+
+Basic Race Archer (10 HD)
+
+STR 19*, DEX 19*, CON 17*, INT 10*, WIS 10*, CHA 10*; AL Random
+HP 97, AC 4, THAC0 1, Saving Throw 7/7/6/8/8
+3 Attacks Per Round, X+10 Damage (Bolts or Arrows +4 x60)
+or 2 Attacks Per Round, X+11 Damage (Special +3)
+
+Humans wields a Longbow and a Long Sword
+Elves wields a Longbow and a Long Sword
+Dwarves wields a Crossbow and a Battle Axe
+Halflings wields a Shortbow and a Dagger
+Gnomes wields Crossbow and a Dagger
+Half Orcs wields a Crossbow and a Mace
+
+Bows gives +1 APR, Crossbows give +1 THAC0 and +3 Damage
+
+*Racial Attribute Bonuses and Penalties will be applied~

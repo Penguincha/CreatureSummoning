@@ -43,14 +43,261 @@ DESIGNATED 502
 SUBCOMPONENT @4
 REQUIRE_PREDICATE (GAME_IS ~bgee bg2ee eet iwdee~) @2 // Incompatible Game
 
-INCLUDE ~CreatureSummoning/Components/(A)JustMonsters.tpa~
+INCLUDE ~CreatureSummoning/Components/MainComponent.tpa~
+
+MAKE_BIFF ~CRMTable~ BEGIN
+	~CreatureSummoning/MonsterTables/TableA~ ~.~
+END
+
+MAKE_BIFF ~CRSTable~ BEGIN
+	~CreatureSummoning/SpellTables~ ~.~
+END
+
+/// SCROLLS ///
+
+COPY ~CreatureSummoning/itm/items_named/dcmon1.itm~ ~override~
+	SAY NAME1 @159 // Creature Summoning I
+	SAY NAME2 @159
+	SAY DESC @160
+COPY ~CreatureSummoning/itm/items_named/dcmon2.itm~ ~override~
+	SAY NAME1 @161 // Creature Summoning II
+	SAY NAME2 @161
+	SAY DESC @162
+COPY ~CreatureSummoning/itm/items_named/dcmon3.itm~ ~override~
+	SAY NAME1 @163 // Creature Summoning III
+	SAY NAME2 @163
+	SAY DESC @164
+COPY ~CreatureSummoning/itm/items_named/dcmon4.itm~ ~override~
+	SAY NAME1 @165 // Creature Summoning IV
+	SAY NAME2 @165
+	SAY DESC @166
+COPY ~CreatureSummoning/itm/items_named/dcmon5.itm~ ~override~
+	SAY NAME1 @167 // Creature Summoning V
+	SAY NAME2 @167
+	SAY DESC @168
+COPY ~CreatureSummoning/itm/items_named/dcmon6.itm~ ~override~
+	SAY NAME1 @169 // Creature Summoning VI
+	SAY NAME2 @169
+	SAY DESC @170
+COPY ~CreatureSummoning/itm/items_named/dcmon7.itm~ ~override~
+	SAY NAME1 @171 // Creature Summoning VII
+	SAY NAME2 @171
+	SAY DESC @172
+COPY ~CreatureSummoning/itm/items_named/dcmon8.itm~ ~override~
+	SAY NAME1 @173 // Creature Summoning VIII
+	SAY NAME2 @173
+	SAY DESC @174
+COPY ~CreatureSummoning/itm/items_named/dcmon9.itm~ ~override~
+	SAY NAME1 @175 // Creature Summoning IX
+	SAY NAME2 @175
+	SAY DESC @176
+
+/// SPELLS ///
+
+COPY ~CreatureSummoning/spl/dcmon01.spl~ ~override~
+	SAY NAME1 @159 // Creature Summoning I
+	SAY UNIDENTIFIED_DESC @160
+	SAY DESC @160
+COPY ~CreatureSummoning/spl/dcmon02.spl~ ~override~
+	SAY NAME1 @161 // Creature Summoning II
+	SAY UNIDENTIFIED_DESC @162
+	SAY DESC @162
+COPY ~CreatureSummoning/spl/dcmon03.spl~ ~override~
+	SAY NAME1 @163 // Creature Summoning III
+	SAY UNIDENTIFIED_DESC @164
+	SAY DESC @164
+COPY ~CreatureSummoning/spl/dcmon03a.spl~ ~override~
+	SAY NAME1 @328
+COPY ~CreatureSummoning/spl/dcmon03b.spl~ ~override~
+	SAY NAME1 @326
+COPY ~CreatureSummoning/spl/dcmon04.spl~ ~override~
+	SAY NAME1 @165 // Creature Summoning IV
+	SAY UNIDENTIFIED_DESC @166
+	SAY DESC @166
+COPY ~CreatureSummoning/spl/dcmon04a.spl~ ~override~
+	SAY NAME1 @329
+COPY ~CreatureSummoning/spl/dcmon04b.spl~ ~override~
+	SAY NAME1 @327
+COPY ~CreatureSummoning/spl/dcmon05.spl~ ~override~
+	SAY NAME1 @167 // Creature Summoning V
+	SAY UNIDENTIFIED_DESC @168
+	SAY DESC @168
+COPY ~CreatureSummoning/spl/dcmon05a.spl~ ~override~
+	SAY NAME1 @330
+COPY ~CreatureSummoning/spl/dcmon05b.spl~ ~override~
+	SAY NAME1 @328
+COPY ~CreatureSummoning/spl/dcmon06.spl~ ~override~
+	SAY NAME1 @169 // Creature Summoning VI
+	SAY UNIDENTIFIED_DESC @170
+	SAY DESC @170
+COPY ~CreatureSummoning/spl/dcmon06a.spl~ ~override~
+	SAY NAME1 @331
+COPY ~CreatureSummoning/spl/dcmon06b.spl~ ~override~
+	SAY NAME1 @329
+COPY ~CreatureSummoning/spl/dcmon07.spl~ ~override~
+	SAY NAME1 @171 // Creature Summoning VII
+	SAY UNIDENTIFIED_DESC @172
+	SAY DESC @172
+COPY ~CreatureSummoning/spl/dcmon07a.spl~ ~override~
+	SAY NAME1 @332
+COPY ~CreatureSummoning/spl/dcmon07b.spl~ ~override~
+	SAY NAME1 @330
+COPY ~CreatureSummoning/spl/dcmon08.spl~ ~override~
+	SAY NAME1 @173 // Creature Summoning VIII
+	SAY UNIDENTIFIED_DESC @174
+	SAY DESC @174
+COPY ~CreatureSummoning/spl/dcmon08a.spl~ ~override~
+	SAY NAME1 @333
+COPY ~CreatureSummoning/spl/dcmon08b.spl~ ~override~
+	SAY NAME1 @331
+COPY ~CreatureSummoning/spl/dcmon09.spl~ ~override~
+	SAY NAME1 @175 // Creature Summoning IX
+	SAY UNIDENTIFIED_DESC @176
+	SAY DESC @176
+COPY ~CreatureSummoning/spl/dcmon09a.spl~ ~override~
+	SAY NAME1 @334
+COPY ~CreatureSummoning/spl/dcmon09b.spl~ ~override~
+	SAY NAME1 @332
+COPY ~CreatureSummoning/spl/dcmon0h.spl~ ~override~
+	SAY NAME1 @177 // Creature Summoning X
+	SAY UNIDENTIFIED_DESC @178
+	SAY DESC @178
+COPY ~CreatureSummoning/spl/dcmon0ha.spl~ ~override~
+	SAY NAME1 @335
+COPY ~CreatureSummoning/spl/dcmon0hb.spl~ ~override~
+	SAY NAME1 @333
+
+
 
 BEGIN @6 // Monsters and Basic Races
 DESIGNATED 503	
 SUBCOMPONENT @4
 REQUIRE_PREDICATE (GAME_IS ~bgee bg2ee eet iwdee~) @2 // Incompatible Game
 
-INCLUDE ~CreatureSummoning/Components/(B)BasicRaces.tpa~
+INCLUDE ~CreatureSummoning/Components/MainComponent.tpa~
+INCLUDE ~CreatureSummoning/Components/BasicRaces.tpa~
+
+MAKE_BIFF ~CRMTable~ BEGIN
+	~CreatureSummoning/MonsterTables/TableA~ ~.~
+END
+
+MAKE_BIFF ~CRSTable~ BEGIN
+	~CreatureSummoning/SpellTables~ ~.~
+END
+
+/// SCROLLS ///
+
+COPY ~CreatureSummoning/itm/items_named/dcmon1.itm~ ~override~
+	SAY NAME1 @159 // Creature Summoning I
+	SAY NAME2 @336
+	SAY DESC @336
+COPY ~CreatureSummoning/itm/items_named/dcmon2.itm~ ~override~
+	SAY NAME1 @161 // Creature Summoning II
+	SAY NAME2 @337
+	SAY DESC @337
+COPY ~CreatureSummoning/itm/items_named/dcmon3.itm~ ~override~
+	SAY NAME1 @163 // Creature Summoning III
+	SAY NAME2 @338
+	SAY DESC @338
+COPY ~CreatureSummoning/itm/items_named/dcmon4.itm~ ~override~
+	SAY NAME1 @165 // Creature Summoning IV
+	SAY NAME2 @339
+	SAY DESC @339
+COPY ~CreatureSummoning/itm/items_named/dcmon5.itm~ ~override~
+	SAY NAME1 @167 // Creature Summoning V
+	SAY NAME2 @340
+	SAY DESC @340
+COPY ~CreatureSummoning/itm/items_named/dcmon6.itm~ ~override~
+	SAY NAME1 @169 // Creature Summoning VI
+	SAY NAME2 @341
+	SAY DESC @341
+COPY ~CreatureSummoning/itm/items_named/dcmon7.itm~ ~override~
+	SAY NAME1 @171 // Creature Summoning VII
+	SAY NAME2 @342
+	SAY DESC @342
+COPY ~CreatureSummoning/itm/items_named/dcmon8.itm~ ~override~
+	SAY NAME1 @173 // Creature Summoning VIII
+	SAY NAME2 @343
+	SAY DESC @343
+COPY ~CreatureSummoning/itm/items_named/dcmon9.itm~ ~override~
+	SAY NAME1 @175 // Creature Summoning IX
+	SAY NAME2 @344
+	SAY DESC @344
+
+/// SPELLS ///
+
+COPY ~CreatureSummoning/spl/dcmon01.spl~ ~override~
+	SAY NAME1 @159 // Creature Summoning I
+	SAY UNIDENTIFIED_DESC @336
+	SAY DESC @336
+COPY ~CreatureSummoning/spl/dcmon02.spl~ ~override~
+	SAY NAME1 @161 // Creature Summoning II
+	SAY UNIDENTIFIED_DESC @337
+	SAY DESC @337
+COPY ~CreatureSummoning/spl/dcmon03.spl~ ~override~
+	SAY NAME1 @163 // Creature Summoning III
+	SAY UNIDENTIFIED_DESC @338
+	SAY DESC @338
+COPY ~CreatureSummoning/spl/dcmon03a.spl~ ~override~
+	SAY NAME1 @328
+COPY ~CreatureSummoning/spl/dcmon03b.spl~ ~override~
+	SAY NAME1 @326
+COPY ~CreatureSummoning/spl/dcmon04.spl~ ~override~
+	SAY NAME1 @165 // Creature Summoning IV
+	SAY UNIDENTIFIED_DESC @339
+	SAY DESC @339
+COPY ~CreatureSummoning/spl/dcmon04a.spl~ ~override~
+	SAY NAME1 @329
+COPY ~CreatureSummoning/spl/dcmon04b.spl~ ~override~
+	SAY NAME1 @327
+COPY ~CreatureSummoning/spl/dcmon05.spl~ ~override~
+	SAY NAME1 @167 // Creature Summoning V
+	SAY UNIDENTIFIED_DESC @340
+	SAY DESC @340
+COPY ~CreatureSummoning/spl/dcmon05a.spl~ ~override~
+	SAY NAME1 @330
+COPY ~CreatureSummoning/spl/dcmon05b.spl~ ~override~
+	SAY NAME1 @328
+COPY ~CreatureSummoning/spl/dcmon06.spl~ ~override~
+	SAY NAME1 @169 // Creature Summoning VI
+	SAY UNIDENTIFIED_DESC @341
+	SAY DESC @341
+COPY ~CreatureSummoning/spl/dcmon06a.spl~ ~override~
+	SAY NAME1 @331
+COPY ~CreatureSummoning/spl/dcmon06b.spl~ ~override~
+	SAY NAME1 @329
+COPY ~CreatureSummoning/spl/dcmon07.spl~ ~override~
+	SAY NAME1 @171 // Creature Summoning VII
+	SAY UNIDENTIFIED_DESC @342
+	SAY DESC @342
+COPY ~CreatureSummoning/spl/dcmon07a.spl~ ~override~
+	SAY NAME1 @332
+COPY ~CreatureSummoning/spl/dcmon07b.spl~ ~override~
+	SAY NAME1 @330
+COPY ~CreatureSummoning/spl/dcmon08.spl~ ~override~
+	SAY NAME1 @173 // Creature Summoning VIII
+	SAY UNIDENTIFIED_DESC @343
+	SAY DESC @343
+COPY ~CreatureSummoning/spl/dcmon08a.spl~ ~override~
+	SAY NAME1 @333
+COPY ~CreatureSummoning/spl/dcmon08b.spl~ ~override~
+	SAY NAME1 @331
+COPY ~CreatureSummoning/spl/dcmon09.spl~ ~override~
+	SAY NAME1 @175 // Creature Summoning IX
+	SAY UNIDENTIFIED_DESC @344
+	SAY DESC @344
+COPY ~CreatureSummoning/spl/dcmon09a.spl~ ~override~
+	SAY NAME1 @334
+COPY ~CreatureSummoning/spl/dcmon09b.spl~ ~override~
+	SAY NAME1 @332
+COPY ~CreatureSummoning/spl/dcmon0h.spl~ ~override~
+	SAY NAME1 @177 // Creature Summoning X
+	SAY UNIDENTIFIED_DESC @345
+	SAY DESC @345
+COPY ~CreatureSummoning/spl/dcmon0ha.spl~ ~override~
+	SAY NAME1 @335
+COPY ~CreatureSummoning/spl/dcmon0hb.spl~ ~override~
+	SAY NAME1 @333
 
 
 /////	Stores	/////
