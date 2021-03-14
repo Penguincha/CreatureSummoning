@@ -4,7 +4,7 @@ I always had a heavy love for summoner characters, especially horde summons like
 
 I wanted to make a summoning mod with horde based mechanics, as well as randomness, so I figured why not just make a reworked Monster Summoning Mod?
 
-This mod uses a base-work reference with Spell-Revision's Monster Summoning, and adds an option in the third level spell and above to summon more of monsters ala BG1 Vanilla Monster Summoning that are 2-HD lower, as well as making them circumvent the summon limit.
+This mod uses a base-work reference with Spell-Revision's Monster Summoning, and adds a choice in the third level spell and above to summon more monsters ala BG1 Vanilla Monster Summoning that are 2-HD lower, as well as making them circumvent the summon limit.
 
 NOTE: IT IS HEAVILY RECOMMENDED THAT YOU INSTALL EEEX (https://github.com/Bubb13/EEex/archive/master.zip), AS THE GAME WILL CRASH IF YOU TRY TO MAKE A MULTI-CLASSED MAGE.
 
