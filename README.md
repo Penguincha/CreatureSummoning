@@ -38,6 +38,8 @@ The basic races include all the selectable races (excluding half-elf) in the sum
 
 All of the creature's stats can be found in the folder Creature Documentation, or the in-game description of the spells.
 
+Install this before any major spell rework mods (like Tomes and Blood).
+
 
 3. Store Alterations
 
@@ -52,6 +54,8 @@ SOD: Belegram's Wands, Potions and Scrolls
 BG2EE: Galoomp the Bookkeeper, Lady Yuth (Diedre with Item Revisions), Red Wizard Scroll Merchant, Ust Natha Scroll Merchant, Ribald's Special Stock, Lazarus Librarus, Book Merchant (both Neera's quest and Black Pits 2)
 
 IWDEE: Orrick the Grey, Nym, Keiran Nye, Edion Caradoc
+
+Install this after Item Revisions' Component "Store Revisions", if you have that in your mod order.
 
 
 
