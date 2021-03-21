@@ -1,0 +1,484 @@
+	//Human Males (1 and 2 HD)//
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/HumanMales~ ~override~
+	SAY NAME1 @301
+	SAY NAME2 @301
+	SAY SELECT_COMMON1 @202
+	SAY SELECT_COMMON2 @203
+	SAY BATTLE_CRY1 @204
+	SAY DAMAGE @205
+	SAY DYING @206
+	
+	//Human Females (1 and 2 HD)//
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/HumanFemales~ ~override~
+	SAY NAME1 @301
+	SAY NAME2 @301
+	SAY SELECT_COMMON1 @207
+	SAY SELECT_COMMON2 @233
+	SAY BATTLE_CRY1 @208
+	SAY BATTLE_CRY2 @209
+	SAY DAMAGE @210
+	SAY DYING @211
+	
+	//Human Male Archer//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/HumanMaleArchers~ ~override~
+	SAY NAME1 @302
+	SAY NAME2 @302
+	SAY SELECT_COMMON1 @273
+	SAY BATTLE_CRY1 @275
+	SAY BATTLE_CRY2 @276
+	SAY DAMAGE @303
+	SAY DYING @304
+	
+	//Human Female Archer//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/HumanFemaleArchers~ ~override~
+	SAY NAME1 @302
+	SAY NAME2 @302
+	SAY SELECT_COMMON1 @283
+	SAY BATTLE_CRY1 @284
+	SAY BATTLE_CRY2 @285
+	SAY DAMAGE @286
+	SAY DYING @305
+	
+	//Human Male Fighter//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/HumanMaleFighters~ ~override~
+	SAY NAME1 @306
+	SAY NAME2 @306
+	SAY SELECT_COMMON1 @270
+	SAY BATTLE_CRY1 @271
+	SAY DAMAGE @272
+	SAY DYING @206
+	
+	//Human Female Fighter//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/HumanFemaleFighters~ ~override~
+	SAY NAME1 @306
+	SAY NAME2 @306
+	SAY SELECT_COMMON1 @276
+	SAY SELECT_COMMON2 @277
+	SAY SELECT_COMMON3 @278
+	SAY SELECT_COMMON4 @279
+	SAY BATTLE_CRY1 @280
+	SAY DAMAGE @281
+	SAY DYING @282
+	
+	//Elf Females//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/ElvenFemales~ ~override~
+	SAY NAME1 @307
+	SAY NAME2 @307
+	SAY SELECT_COMMON1 @217
+	SAY SELECT_COMMON2 @218
+	SAY SELECT_COMMON3 @219
+	SAY DAMAGE @220
+	SAY DYING @221
+	
+	//Elf Female Fighters//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/ElvenFemaleFighters~ ~override~
+	SAY NAME1 @308
+	SAY NAME2 @308
+	SAY SELECT_COMMON1 @217
+	SAY SELECT_COMMON2 @218
+	SAY SELECT_COMMON3 @219
+	SAY DAMAGE @220
+	SAY DYING @221
+	
+	//Elf Female Archers//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/ElvenFemaleArchers~ ~override~
+	SAY NAME1 @309
+	SAY NAME2 @309
+	SAY SELECT_COMMON1 @217
+	SAY SELECT_COMMON2 @218
+	SAY SELECT_COMMON3 @219
+	SAY DAMAGE @220
+	SAY DYING @221
+	
+	//Elf Males//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/ElvenMales~ ~override~
+	SAY NAME1 @307
+	SAY NAME2 @307
+	SAY SELECT_COMMON1 @212
+	SAY SELECT_COMMON2 @213
+	SAY SELECT_COMMON3 @214
+	SAY DAMAGE @215
+	SAY DYING @216
+	
+	//Elf Male Fighters//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/ElvenMaleFighters~ ~override~
+	SAY NAME1 @308
+	SAY NAME2 @308
+	SAY SELECT_COMMON1 @212
+	SAY SELECT_COMMON2 @213
+	SAY SELECT_COMMON3 @214
+	SAY DAMAGE @215
+	SAY DYING @216
+	
+	//Elf Male Archers//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/ElvenMaleArchers~ ~override~
+	SAY NAME1 @309
+	SAY NAME2 @309
+	SAY SELECT_COMMON1 @212
+	SAY SELECT_COMMON2 @213
+	SAY SELECT_COMMON3 @214
+	SAY DAMAGE @215
+	SAY DYING @216
+	
+	//Dwarf Females//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/DwarvenFemales~ ~override~
+	SAY NAME1 @310
+	SAY NAME2 @310
+	SAY SELECT_COMMON1 @228
+	SAY SELECT_COMMON2 @229
+	SAY SELECT_COMMON3 @230
+	SAY DAMAGE @231
+	SAY DYING @232
+	
+	//Dwarf Female Fighters//	
+
+COPY ~CreatureSummoning/cre/BasicRaceCre/DwarvenFemaleFighters~ ~override~
+	SAY NAME1 @310
+	SAY NAME2 @310
+	SAY SELECT_COMMON1 @228
+	SAY SELECT_COMMON2 @229
+	SAY SELECT_COMMON3 @230
+	SAY DAMAGE @231
+	SAY DYING @232
+	
+	//Dwarf Female Archers//	
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/DwarvenFemaleArchers~ ~override~
+	SAY NAME1 @312
+	SAY NAME2 @312
+	SAY SELECT_COMMON1 @228
+	SAY SELECT_COMMON2 @229
+	SAY SELECT_COMMON3 @230
+	SAY DAMAGE @231
+	SAY DYING @232
+	
+	//Dwarf Males//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/DwarvenMales~ ~override~
+	SAY NAME1 @310
+	SAY NAME2 @310
+	SAY SELECT_COMMON1 @222
+	SAY SELECT_COMMON2 @223
+	SAY SELECT_COMMON3 @224
+	SAY BATTLE_CRY1 @225
+	SAY DAMAGE @226
+	SAY DYING @227
+	
+	//Dwarf Male Fighters//	
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/DwarvenMaleFighters~ ~override~
+	SAY NAME1 @311
+	SAY NAME2 @311
+	SAY SELECT_COMMON1 @222
+	SAY SELECT_COMMON2 @223
+	SAY SELECT_COMMON3 @224
+	SAY BATTLE_CRY1 @225
+	SAY DAMAGE @226
+	SAY DYING @227
+	
+	//Dwarf Male Archers//	
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/DwarvenFemaleFighters~ ~override~
+	SAY NAME1 @312
+	SAY NAME2 @312
+	SAY SELECT_COMMON1 @222
+	SAY SELECT_COMMON2 @223
+	SAY SELECT_COMMON3 @224
+	SAY BATTLE_CRY1 @225
+	SAY DAMAGE @226
+	SAY DYING @227
+	
+	//Halfling Females//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/HalflingFemales~ ~override~
+	SAY NAME1 @313
+	SAY NAME2 @313
+	SAY SELECT_COMMON1 @254
+	SAY SELECT_COMMON2 @255
+	SAY SELECT_COMMON3 @256
+	SAY DAMAGE @257
+	SAY DYING @258
+	
+	//Halfling Female Fighters//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/HalflingFemaleFighters~ ~override~
+	SAY NAME1 @314
+	SAY NAME2 @314
+	SAY SELECT_COMMON1 @254
+	SAY SELECT_COMMON2 @255
+	SAY SELECT_COMMON3 @256
+	SAY DAMAGE @257
+	SAY DYING @258
+	
+	//Halfling Female Archers//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/HalflingFemaleArchers~ ~override~
+	SAY NAME1 @315
+	SAY NAME2 @315
+	SAY SELECT_COMMON1 @254
+	SAY SELECT_COMMON2 @255
+	SAY SELECT_COMMON3 @256
+	SAY DAMAGE @257
+	SAY DYING @258
+	
+	//Halfling Males//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/HalflingMales~ ~override~
+	SAY NAME1 @313
+	SAY NAME2 @313
+	SAY SELECT_COMMON1 @248
+	SAY SELECT_COMMON2 @249
+	SAY SELECT_COMMON3 @250
+	SAY SELECT_COMMON4 @251
+	SAY DAMAGE @252
+	SAY DYING @253
+	
+	//Halfling Male Fighters//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/HalflingMaleFighters~ ~override~
+	SAY NAME1 @314
+	SAY NAME2 @314
+	SAY SELECT_COMMON1 @248
+	SAY SELECT_COMMON2 @249
+	SAY SELECT_COMMON3 @250
+	SAY SELECT_COMMON4 @251
+	SAY DAMAGE @252
+	SAY DYING @253
+	
+	//Halfling Male Archers//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/HalflingMaleArchers~ ~override~
+	SAY NAME1 @315
+	SAY NAME2 @315
+	SAY SELECT_COMMON1 @248
+	SAY SELECT_COMMON2 @249
+	SAY SELECT_COMMON3 @250
+	SAY SELECT_COMMON4 @251
+	SAY DAMAGE @252
+	SAY DYING @253
+	
+	//Gnome Females//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/GnomishFemales~ ~override~
+	SAY NAME1 @316
+	SAY NAME2 @316
+	SAY SELECT_COMMON1 @241
+	SAY SELECT_COMMON2 @242
+	SAY SELECT_COMMON3 @243
+	SAY SELECT_COMMON4 @244
+	SAY BATTLE_CRY1 @245
+	SAY DAMAGE @246
+	SAY DYING @247
+	
+	//Gnome Female Fighters//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/GnomishFemaleFighters~ ~override~
+	SAY NAME1 @317
+	SAY NAME2 @317
+	SAY SELECT_COMMON1 @241
+	SAY SELECT_COMMON2 @242
+	SAY SELECT_COMMON3 @243
+	SAY SELECT_COMMON4 @244
+	SAY BATTLE_CRY1 @245
+	SAY DAMAGE @246
+	SAY DYING @247
+	
+	//Gnome Female Archers//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/GnomishFemaleArchers~ ~override~
+	SAY NAME1 @318
+	SAY NAME2 @318
+	SAY SELECT_COMMON1 @241
+	SAY SELECT_COMMON2 @242
+	SAY SELECT_COMMON3 @243
+	SAY SELECT_COMMON4 @244
+	SAY BATTLE_CRY1 @245
+	SAY DAMAGE @246
+	SAY DYING @247
+	
+	//Gnome Males//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/GnomishMales~ ~override~
+	SAY NAME1 @316
+	SAY NAME2 @316
+	SAY SELECT_COMMON1 @234
+	SAY SELECT_COMMON2 @235
+	SAY SELECT_COMMON3 @236
+	SAY SELECT_COMMON4 @237
+	SAY BATTLE_CRY1 @238
+	SAY DAMAGE @239
+	SAY DYING @240
+	
+	//Gnome Male Fighters//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/GnomishMaleFighters~ ~override~
+	SAY NAME1 @317
+	SAY NAME2 @317
+	SAY SELECT_COMMON1 @234
+	SAY SELECT_COMMON2 @235
+	SAY SELECT_COMMON3 @236
+	SAY SELECT_COMMON4 @237
+	SAY BATTLE_CRY1 @238
+	SAY DAMAGE @239
+	SAY DYING @240
+	
+	//Gnome Male Archers//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/GnomishMaleArchers~ ~override~
+	SAY NAME1 @318
+	SAY NAME2 @318
+	SAY SELECT_COMMON1 @234
+	SAY SELECT_COMMON2 @235
+	SAY SELECT_COMMON3 @236
+	SAY SELECT_COMMON4 @237
+	SAY BATTLE_CRY1 @238
+	SAY DAMAGE @239
+	SAY DYING @240
+	
+	//Half-Orc Females//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/Half-OrcFemales~ ~override~
+	SAY NAME1 @319
+	SAY NAME2 @319
+	SAY SELECT_COMMON1 @266
+	SAY SELECT_COMMON2 @267
+	SAY DAMAGE @268
+	SAY DYING @269	
+
+	//Half-Orc Female Fighters//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/Half-OrcFemaleFighters~ ~override~
+	SAY NAME1 @320
+	SAY NAME2 @320
+	SAY SELECT_COMMON1 @266
+	SAY SELECT_COMMON2 @267
+	SAY DAMAGE @268
+	SAY DYING @269	
+
+	//Half-Orc Female Archers//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/Half-OrcFemaleArchers~ ~override~
+	SAY NAME1 @321
+	SAY NAME2 @321
+	SAY SELECT_COMMON1 @266
+	SAY SELECT_COMMON2 @267
+	SAY DAMAGE @268
+	SAY DYING @269	
+	
+	//Half-Orc Males//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/Half-OrcMales~ ~override~
+	SAY NAME1 @319
+	SAY NAME2 @319
+	SAY SELECT_COMMON1 @259
+	SAY SELECT_COMMON2 @260
+	SAY SELECT_COMMON3 @261
+	SAY SELECT_COMMON4 @262
+	SAY BATTLE_CRY1 @263
+	SAY BATTLE_CRY2 @264
+	SAY DAMAGE @322
+	SAY DYING @265	
+	
+	//Half-Orc Male Fighters//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/Half-OrcMaleFighters~ ~override~
+	SAY NAME1 @320
+	SAY NAME2 @320
+	SAY SELECT_COMMON1 @259
+	SAY SELECT_COMMON2 @260
+	SAY SELECT_COMMON3 @261
+	SAY SELECT_COMMON4 @262
+	SAY BATTLE_CRY1 @263
+	SAY BATTLE_CRY2 @264
+	SAY DAMAGE @322
+	SAY DYING @265	
+	
+	//Half-Orc Male Archers//
+	
+COPY ~CreatureSummoning/cre/BasicRaceCre/Half-OrcMaleArchers~ ~override~
+	SAY NAME1 @321
+	SAY NAME2 @321
+	SAY SELECT_COMMON1 @259
+	SAY SELECT_COMMON2 @260
+	SAY SELECT_COMMON3 @261
+	SAY SELECT_COMMON4 @262
+	SAY BATTLE_CRY1 @263
+	SAY BATTLE_CRY2 @264
+	SAY DAMAGE @322
+	SAY DYING @265		
+	
+ //The Rest//
+ 
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs612a.cre~ ~override~
+	SAY NAME1 @322
+	SAY NAME2 @322
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs612b.cre~ ~override~
+	SAY NAME1 @322
+	SAY NAME2 @322
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs613a.cre~ ~override~
+	SAY NAME1 @322
+	SAY NAME2 @322
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs613b.cre~ ~override~
+	SAY NAME1 @322
+	SAY NAME2 @322
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs614a.cre~ ~override~
+	SAY NAME1 @322
+	SAY NAME2 @322
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs614b.cre~ ~override~
+	SAY NAME1 @322
+	SAY NAME2 @322
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs709a.cre~ ~override~
+	SAY NAME1 @323
+	SAY NAME2 @323
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs709b.cre~ ~override~
+	SAY NAME1 @323
+	SAY NAME2 @323
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs710a.cre~ ~override~
+	SAY NAME1 @323
+	SAY NAME2 @323
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs710b.cre~ ~override~
+	SAY NAME1 @323
+	SAY NAME2 @323
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs815a.cre~ ~override~
+	SAY NAME1 @324
+	SAY NAME2 @324
+	SAY SELECT_COMMON1 @287
+	SAY SELECT_COMMON2 @288
+	SAY SELECT_COMMON3 @289
+	SAY SELECT_COMMON4 @290
+	SAY BATTLE_CRY1 @291
+	SAY DAMAGE @292
+	SAY DYING @293
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs815b.cre~ ~override~
+	SAY NAME1 @324
+	SAY NAME2 @324
+	SAY SELECT_COMMON1 @287
+	SAY SELECT_COMMON2 @288
+	SAY SELECT_COMMON3 @289
+	SAY SELECT_COMMON4 @290
+	SAY BATTLE_CRY1 @291
+	SAY DAMAGE @292
+	SAY DYING @293
+COPY ~CreatureSummoning/cre/BasicRaceCre/dcs909.cre~ ~override~
+	SAY NAME1 @325
+	SAY NAME2 @325
+	SAY SELECT_COMMON1 @294
+	SAY SELECT_COMMON2 @295
+	SAY SELECT_COMMON3 @296
+	SAY SELECT_COMMON4 @297
+	SAY BATTLE_CRY1 @298
+	SAY DAMAGE @299
+	SAY DYING @300
